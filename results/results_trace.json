@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "Offer": {
+        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueC",
+            "issueA": "valueE",
+            "issueB": "valueE",
+            "issueC": "valueE",
+            "issueE": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_random_agent_random_agent_RandomAgent_1": 0.7983806492,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7078143542
+        }
+      }
+    }
+  ],
+  "connections": [
+    "agents_random_agent_random_agent_RandomAgent_1",
+    "agents_template_agent_template_agent_TemplateAgent_2"
+  ],
+  "progress": {
+    "ProgressRounds": {
+      "duration": 200,
+      "currentRound": 0,
+      "endtime": 1645274542777
+    }
+  },
+  "settings": {
+    "SAOPSettings": {
+      "participants": [
+        {
+          "TeamInfo": {
+            "parties": [
+              {
+                "party": {
+                  "partyref": "pythonpath:agents.random_agent.random_agent.RandomAgent",
+                  "parameters": {}
+                },
+                "profile": "file:domains/domain00/profileA.json"
+              }
+            ]
+          }
+        },
+        {
+          "TeamInfo": {
+            "parties": [
+              {
+                "party": {
+                  "partyref": "pythonpath:agents.template_agent.template_agent.TemplateAgent",
+                  "parameters": {}
+                },
+                "profile": "file:domains/domain00/profileB.json"
+              }
+            ]
+          }
+        }
+      ],
+      "deadline": {
+        "DeadlineRounds": {
+          "rounds": 200,
+          "durationms": 999
+        }
+      }
+    }
+  },
+  "partyprofiles": {
+    "agents_random_agent_random_agent_RandomAgent_1": {
+      "party": {
+        "partyref": "pythonpath:agents.random_agent.random_agent.RandomAgent",
+        "parameters": {}
+      },
+      "profile": "file:domains/domain00/profileA.json"
+    },
+    "agents_template_agent_template_agent_TemplateAgent_2": {
+      "party": {
+        "partyref": "pythonpath:agents.template_agent.template_agent.TemplateAgent",
+        "parameters": {}
+      },
+      "profile": "file:domains/domain00/profileB.json"
+    }
+  },
+  "error": null
+}

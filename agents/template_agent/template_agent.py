@@ -24,6 +24,8 @@ from geniusweb.profileconnection.ProfileConnectionFactory import (
 )
 from geniusweb.progress.ProgressRounds import ProgressRounds
 
+from agents.time_dependent_agent.time_dependent_agent import TimeDependentAgent
+
 
 class TemplateAgent(DefaultParty):
     """
@@ -35,6 +37,7 @@ class TemplateAgent(DefaultParty):
         self.getReporter().log(logging.INFO, "party is initialized")
         self._profile = None
         self._last_received_bid: Bid = None
+        self.bidList: list[Bid] = []
 
     def notifyChange(self, info: Inform):
         """This is the entry point of all interaction with your agent after is has been initialised.
@@ -102,10 +105,12 @@ class TemplateAgent(DefaultParty):
     #######################################################################################
 
     # give a description of your agent
+    # Overrride
     def getDescription(self) -> str:
         return "Template agent for Collaborative AI course"
 
     # execute a turn
+    # Override
     def _myTurn(self):
         # check if the last received offer if the opponent is good enough
         if self._isGood(self._last_received_bid):
@@ -119,7 +124,10 @@ class TemplateAgent(DefaultParty):
         # send the action
         self.getConnection().send(action)
 
+    # def _analyzeOpponent(self):
+
     # method that checks if we would agree with an offer
+    # Override
     def _isGood(self, bid: Bid) -> bool:
         if bid is None:
             return False
@@ -127,10 +135,27 @@ class TemplateAgent(DefaultParty):
 
         progress = self._progress.get(0)
 
+        if isinstance(profile, UtilitySpace):
+            reservation_bid = profile.getReservationBid()
+            reservation_value = profile.getUtility(reservation_bid)
+            utility_target = (reservation_value + 1) / 2
+
+        boulware_e = 0.2
+        ft1 = round(float(1 - pow(progress, 1 / boulware_e)), 6)  # defaults ROUND_HALF_UP
+        return reservation_value + (utility_target - reservation_value) * ft1
+
+
+        # progressArray = [0, 0.2, 0.4, 0.6, 0.8]
+        # utilityArray = [0, 0.9, 0.8, 0.7, 0.6]
+        # for i in range(1, len(progressArray)):
+        #     if progressArray[i - 1] <= progress <= progressArray[i]:
+        #         return profile.getUtility(bid) > utilityArray[i]
+
         # very basic approach that accepts if the offer is valued above 0.6 and
         # 80% of the rounds towards the deadline have passed
-        return profile.getUtility(bid) > 0.6 and progress > 0.8
+        # return profile.getUtility(bid) > 0.6 and progress > 0.8
 
+    # Override
     def _findBid(self) -> Bid:
         # compose a list of all possible bids
         domain = self._profile.getProfile().getDomain()

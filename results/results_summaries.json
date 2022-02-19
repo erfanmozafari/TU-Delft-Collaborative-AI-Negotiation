@@ -1,0 +1,830 @@
+[
+  {
+    "num_offers": 103,
+    "agent_1": "BoulwareAgent",
+    "utility_1": 0,
+    "agent_2": "ConcederAgent",
+    "utility_2": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 312,
+    "agent_3": "BoulwareAgent",
+    "utility_3": 0,
+    "agent_4": "HardlinerAgent",
+    "utility_4": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 177,
+    "agent_5": "BoulwareAgent",
+    "utility_5": 0,
+    "agent_6": "LinearAgent",
+    "utility_6": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 304,
+    "agent_7": "BoulwareAgent",
+    "utility_7": 0.7853292317,
+    "agent_8": "RandomAgent",
+    "utility_8": 0.6376468505,
+    "nash_product": 0.5007627111990898,
+    "social_welfare": 1.4229760822,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_9": "BoulwareAgent",
+    "utility_9": 1.0,
+    "agent_10": "StupidAgent",
+    "utility_10": 0.0454218915,
+    "nash_product": 0.0454218915,
+    "social_welfare": 1.0454218915,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_11": "BoulwareAgent",
+    "utility_11": 0,
+    "agent_12": "TemplateAgent",
+    "utility_12": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 64,
+    "agent_13": "ConcederAgent",
+    "utility_13": 0,
+    "agent_14": "BoulwareAgent",
+    "utility_14": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 70,
+    "agent_15": "ConcederAgent",
+    "utility_15": 0,
+    "agent_16": "HardlinerAgent",
+    "utility_16": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 59,
+    "agent_17": "ConcederAgent",
+    "utility_17": 0.7525834799,
+    "agent_18": "LinearAgent",
+    "utility_18": 0.8616828816,
+    "nash_product": 0.6484883016047877,
+    "social_welfare": 1.6142663615,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 27,
+    "agent_19": "ConcederAgent",
+    "utility_19": 0.7926531869,
+    "agent_20": "RandomAgent",
+    "utility_20": 0.87510539,
+    "nash_product": 0.6936550762568674,
+    "social_welfare": 1.6677585768999998,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_21": "ConcederAgent",
+    "utility_21": 0.9927602362,
+    "agent_22": "StupidAgent",
+    "utility_22": 0.0448440819,
+    "nash_product": 0.044519421339216145,
+    "social_welfare": 1.0376043181,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_23": "ConcederAgent",
+    "utility_23": 0,
+    "agent_24": "TemplateAgent",
+    "utility_24": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 367,
+    "agent_25": "HardlinerAgent",
+    "utility_25": 0,
+    "agent_26": "BoulwareAgent",
+    "utility_26": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 113,
+    "agent_27": "HardlinerAgent",
+    "utility_27": 0,
+    "agent_28": "ConcederAgent",
+    "utility_28": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 199,
+    "agent_29": "HardlinerAgent",
+    "utility_29": 0,
+    "agent_30": "LinearAgent",
+    "utility_30": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 400,
+    "agent_31": "HardlinerAgent",
+    "utility_31": 0,
+    "agent_32": "RandomAgent",
+    "utility_32": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 2,
+    "agent_33": "HardlinerAgent",
+    "utility_33": 1.0,
+    "agent_34": "StupidAgent",
+    "utility_34": 0.0454218915,
+    "nash_product": 0.0454218915,
+    "social_welfare": 1.0454218915,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_35": "HardlinerAgent",
+    "utility_35": 0,
+    "agent_36": "TemplateAgent",
+    "utility_36": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 118,
+    "agent_37": "LinearAgent",
+    "utility_37": 0,
+    "agent_38": "BoulwareAgent",
+    "utility_38": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 87,
+    "agent_39": "LinearAgent",
+    "utility_39": 0,
+    "agent_40": "ConcederAgent",
+    "utility_40": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 120,
+    "agent_41": "LinearAgent",
+    "utility_41": 0,
+    "agent_42": "HardlinerAgent",
+    "utility_42": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 88,
+    "agent_43": "LinearAgent",
+    "utility_43": 0.8164108324,
+    "agent_44": "RandomAgent",
+    "utility_44": 0.6554293522,
+    "nash_product": 0.5350996230089947,
+    "social_welfare": 1.4718401846,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_45": "LinearAgent",
+    "utility_45": 0.9927602362,
+    "agent_46": "StupidAgent",
+    "utility_46": 0.0448440819,
+    "nash_product": 0.044519421339216145,
+    "social_welfare": 1.0376043181,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_47": "LinearAgent",
+    "utility_47": 0,
+    "agent_48": "TemplateAgent",
+    "utility_48": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 127,
+    "agent_49": "RandomAgent",
+    "utility_49": 0.6530263937,
+    "agent_50": "BoulwareAgent",
+    "utility_50": 0.9878085535,
+    "nash_product": 0.6450650573581185,
+    "social_welfare": 1.6408349472000001,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 9,
+    "agent_51": "RandomAgent",
+    "utility_51": 0.7926531869,
+    "agent_52": "ConcederAgent",
+    "utility_52": 0.87510539,
+    "nash_product": 0.6936550762568674,
+    "social_welfare": 1.6677585768999998,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 400,
+    "agent_53": "RandomAgent",
+    "utility_53": 0,
+    "agent_54": "HardlinerAgent",
+    "utility_54": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 19,
+    "agent_55": "RandomAgent",
+    "utility_55": 0.688856879,
+    "agent_56": "LinearAgent",
+    "utility_56": 0.955028961,
+    "nash_product": 0.6578782694290728,
+    "social_welfare": 1.64388584,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_57": "RandomAgent",
+    "utility_57": 0.7180550363,
+    "agent_58": "StupidAgent",
+    "utility_58": 0.6321626826,
+    "nash_product": 0.45392759800184834,
+    "social_welfare": 1.3502177189,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_59": "RandomAgent",
+    "utility_59": 0,
+    "agent_60": "TemplateAgent",
+    "utility_60": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 3,
+    "agent_61": "StupidAgent",
+    "utility_61": 0.5013775151,
+    "agent_62": "BoulwareAgent",
+    "utility_62": 0.99009805,
+    "nash_product": 0.4964129000143555,
+    "social_welfare": 1.4914755651,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_63": "StupidAgent",
+    "utility_63": 0.554795105,
+    "agent_64": "ConcederAgent",
+    "utility_64": 1.0,
+    "nash_product": 0.554795105,
+    "social_welfare": 1.554795105,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_65": "StupidAgent",
+    "utility_65": 0.5013775151,
+    "agent_66": "HardlinerAgent",
+    "utility_66": 0.99009805,
+    "nash_product": 0.4964129000143555,
+    "social_welfare": 1.4914755651,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_67": "StupidAgent",
+    "utility_67": 0.554795105,
+    "agent_68": "LinearAgent",
+    "utility_68": 1.0,
+    "nash_product": 0.554795105,
+    "social_welfare": 1.554795105,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_69": "StupidAgent",
+    "utility_69": 0.8142768124,
+    "agent_70": "RandomAgent",
+    "utility_70": 0.1078751691,
+    "nash_product": 0.08784024883185898,
+    "social_welfare": 0.9221519815000001,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_71": "StupidAgent",
+    "utility_71": 0,
+    "agent_72": "TemplateAgent",
+    "utility_72": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "agent_73": "TemplateAgent",
+    "utility_73": 0,
+    "agent_74": "BoulwareAgent",
+    "utility_74": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_75": "TemplateAgent",
+    "utility_75": 0,
+    "agent_76": "ConcederAgent",
+    "utility_76": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_77": "TemplateAgent",
+    "utility_77": 0,
+    "agent_78": "HardlinerAgent",
+    "utility_78": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_79": "TemplateAgent",
+    "utility_79": 0,
+    "agent_80": "LinearAgent",
+    "utility_80": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_81": "TemplateAgent",
+    "utility_81": 0,
+    "agent_82": "RandomAgent",
+    "utility_82": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_83": "TemplateAgent",
+    "utility_83": 0,
+    "agent_84": "StupidAgent",
+    "utility_84": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "num_offers": 176,
+    "agent_85": "BoulwareAgent",
+    "utility_85": 0.96424192,
+    "agent_86": "ConcederAgent",
+    "utility_86": 0.3056844442,
+    "nash_product": 0.29475375538954085,
+    "social_welfare": 1.2699263642,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 333,
+    "agent_87": "BoulwareAgent",
+    "utility_87": 0.618486752,
+    "agent_88": "HardlinerAgent",
+    "utility_88": 1.0,
+    "nash_product": 0.618486752,
+    "social_welfare": 1.618486752,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 244,
+    "agent_89": "BoulwareAgent",
+    "utility_89": 0.8971048,
+    "agent_90": "LinearAgent",
+    "utility_90": 0.5117487496,
+    "nash_product": 0.45909225966015815,
+    "social_welfare": 1.4088535496,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 276,
+    "agent_91": "BoulwareAgent",
+    "utility_91": 0.82444862,
+    "agent_92": "RandomAgent",
+    "utility_92": 0.8225547823,
+    "nash_product": 0.6781541551416354,
+    "social_welfare": 1.6470034023,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_93": "BoulwareAgent",
+    "utility_93": 1.0,
+    "agent_94": "StupidAgent",
+    "utility_94": 0.357175972,
+    "nash_product": 0.357175972,
+    "social_welfare": 1.357175972,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_95": "BoulwareAgent",
+    "utility_95": 0,
+    "agent_96": "TemplateAgent",
+    "utility_96": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 65,
+    "agent_97": "ConcederAgent",
+    "utility_97": 0.587269561,
+    "agent_98": "BoulwareAgent",
+    "utility_98": 0.955865998,
+    "nash_product": 0.561351005020287,
+    "social_welfare": 1.543135559,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 59,
+    "agent_99": "ConcederAgent",
+    "utility_99": 0.618486752,
+    "agent_100": "HardlinerAgent",
+    "utility_100": 1.0,
+    "nash_product": 0.618486752,
+    "social_welfare": 1.618486752,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 13,
+    "agent_101": "ConcederAgent",
+    "utility_101": 0.84853366,
+    "agent_102": "LinearAgent",
+    "utility_102": 0.9339953338,
+    "nash_product": 0.7925264790122357,
+    "social_welfare": 1.7825289938,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 14,
+    "agent_103": "ConcederAgent",
+    "utility_103": 0.820607182,
+    "agent_104": "RandomAgent",
+    "utility_104": 0.812845009,
+    "nash_product": 0.6670264522382546,
+    "social_welfare": 1.633452191,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_105": "ConcederAgent",
+    "utility_105": 1.0,
+    "agent_106": "StupidAgent",
+    "utility_106": 0.357175972,
+    "nash_product": 0.357175972,
+    "social_welfare": 1.357175972,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_107": "ConcederAgent",
+    "utility_107": 0,
+    "agent_108": "TemplateAgent",
+    "utility_108": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 366,
+    "agent_109": "HardlinerAgent",
+    "utility_109": 1.0,
+    "agent_110": "BoulwareAgent",
+    "utility_110": 0.357175972,
+    "nash_product": 0.357175972,
+    "social_welfare": 1.357175972,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 172,
+    "agent_111": "HardlinerAgent",
+    "utility_111": 1.0,
+    "agent_112": "ConcederAgent",
+    "utility_112": 0.357175972,
+    "nash_product": 0.357175972,
+    "social_welfare": 1.357175972,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 252,
+    "agent_113": "HardlinerAgent",
+    "utility_113": 1.0,
+    "agent_114": "LinearAgent",
+    "utility_114": 0.357175972,
+    "nash_product": 0.357175972,
+    "social_welfare": 1.357175972,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 400,
+    "agent_115": "HardlinerAgent",
+    "utility_115": 0,
+    "agent_116": "RandomAgent",
+    "utility_116": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 2,
+    "agent_117": "HardlinerAgent",
+    "utility_117": 0.973155041,
+    "agent_118": "StupidAgent",
+    "utility_118": 0.3042429913,
+    "nash_product": 0.29607560067251415,
+    "social_welfare": 1.2773980323,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_119": "HardlinerAgent",
+    "utility_119": 0,
+    "agent_120": "TemplateAgent",
+    "utility_120": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 149,
+    "agent_121": "LinearAgent",
+    "utility_121": 0.62469893,
+    "agent_122": "BoulwareAgent",
+    "utility_122": 0.9534162241,
+    "nash_product": 0.5955980950399102,
+    "social_welfare": 1.5781151541,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 30,
+    "agent_123": "LinearAgent",
+    "utility_123": 0.91543888,
+    "agent_124": "ConcederAgent",
+    "utility_124": 0.873262027,
+    "nash_product": 0.7994180119434097,
+    "social_welfare": 1.788700907,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 146,
+    "agent_125": "LinearAgent",
+    "utility_125": 0.618486752,
+    "agent_126": "HardlinerAgent",
+    "utility_126": 1.0,
+    "nash_product": 0.618486752,
+    "social_welfare": 1.618486752,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 44,
+    "agent_127": "LinearAgent",
+    "utility_127": 0.870304606,
+    "agent_128": "RandomAgent",
+    "utility_128": 0.8199995788,
+    "nash_product": 0.7136494103476999,
+    "social_welfare": 1.6903041848,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_129": "LinearAgent",
+    "utility_129": 0.973155041,
+    "agent_130": "StupidAgent",
+    "utility_130": 0.3042429913,
+    "nash_product": 0.29607560067251415,
+    "social_welfare": 1.2773980323,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_131": "LinearAgent",
+    "utility_131": 0,
+    "agent_132": "TemplateAgent",
+    "utility_132": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 3,
+    "agent_133": "RandomAgent",
+    "utility_133": 0.618486752,
+    "agent_134": "BoulwareAgent",
+    "utility_134": 1.0,
+    "nash_product": 0.618486752,
+    "social_welfare": 1.618486752,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 7,
+    "agent_135": "RandomAgent",
+    "utility_135": 0.836137627,
+    "agent_136": "ConcederAgent",
+    "utility_136": 0.8827082263,
+    "nash_product": 0.738065561671861,
+    "social_welfare": 1.7188458533,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 7,
+    "agent_137": "RandomAgent",
+    "utility_137": 0.618486752,
+    "agent_138": "HardlinerAgent",
+    "utility_138": 1.0,
+    "nash_product": 0.618486752,
+    "social_welfare": 1.618486752,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_139": "RandomAgent",
+    "utility_139": 0.618486752,
+    "agent_140": "LinearAgent",
+    "utility_140": 1.0,
+    "nash_product": 0.618486752,
+    "social_welfare": 1.618486752,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 2,
+    "agent_141": "RandomAgent",
+    "utility_141": 0.735714966,
+    "agent_142": "StupidAgent",
+    "utility_142": 0.0380640384,
+    "nash_product": 0.028004282717278693,
+    "social_welfare": 0.7737790043999999,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_143": "RandomAgent",
+    "utility_143": 0,
+    "agent_144": "TemplateAgent",
+    "utility_144": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "num_offers": 3,
+    "agent_145": "StupidAgent",
+    "utility_145": 0.587269561,
+    "agent_146": "BoulwareAgent",
+    "utility_146": 0.955865998,
+    "nash_product": 0.561351005020287,
+    "social_welfare": 1.543135559,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_147": "StupidAgent",
+    "utility_147": 0.587269561,
+    "agent_148": "ConcederAgent",
+    "utility_148": 0.955865998,
+    "nash_product": 0.561351005020287,
+    "social_welfare": 1.543135559,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_149": "StupidAgent",
+    "utility_149": 0.618486752,
+    "agent_150": "HardlinerAgent",
+    "utility_150": 1.0,
+    "nash_product": 0.618486752,
+    "social_welfare": 1.618486752,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_151": "StupidAgent",
+    "utility_151": 0.587269561,
+    "agent_152": "LinearAgent",
+    "utility_152": 0.955865998,
+    "nash_product": 0.561351005020287,
+    "social_welfare": 1.543135559,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 3,
+    "agent_153": "StupidAgent",
+    "utility_153": 0.614997778,
+    "agent_154": "RandomAgent",
+    "utility_154": 0.8790605344,
+    "nash_product": 0.5406202753834926,
+    "social_welfare": 1.4940583124,
+    "result": "agreement"
+  },
+  {
+    "num_offers": 1,
+    "agent_155": "StupidAgent",
+    "utility_155": 0,
+    "agent_156": "TemplateAgent",
+    "utility_156": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "failed"
+  },
+  {
+    "agent_157": "TemplateAgent",
+    "utility_157": 0,
+    "agent_158": "BoulwareAgent",
+    "utility_158": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_159": "TemplateAgent",
+    "utility_159": 0,
+    "agent_160": "ConcederAgent",
+    "utility_160": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_161": "TemplateAgent",
+    "utility_161": 0,
+    "agent_162": "HardlinerAgent",
+    "utility_162": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_163": "TemplateAgent",
+    "utility_163": 0,
+    "agent_164": "LinearAgent",
+    "utility_164": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_165": "TemplateAgent",
+    "utility_165": 0,
+    "agent_166": "RandomAgent",
+    "utility_166": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  },
+  {
+    "agent_167": "TemplateAgent",
+    "utility_167": 0,
+    "agent_168": "StupidAgent",
+    "utility_168": 0,
+    "nash_product": 0,
+    "social_welfare": 0,
+    "result": "ERROR"
+  }
+]

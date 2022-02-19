@@ -304,6 +304,7 @@ class TimeDependentAgent(DefaultParty):
             self._extendedspace.getMax(),
         )
 
+
     def _delayResponse(self):  # throws InterruptedException
         """
         Do random delay of provided delay in seconds, randomized by factor in
