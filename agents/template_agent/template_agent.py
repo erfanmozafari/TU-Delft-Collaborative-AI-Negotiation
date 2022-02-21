@@ -16,6 +16,7 @@ from geniusweb.issuevalue.Bid import Bid
 from geniusweb.issuevalue.Domain import Domain
 from geniusweb.issuevalue.Value import Value
 from geniusweb.issuevalue.ValueSet import ValueSet
+from decimal import Decimal
 from geniusweb.party.Capabilities import Capabilities
 from geniusweb.party.DefaultParty import DefaultParty
 from geniusweb.profile.utilityspace.UtilitySpace import UtilitySpace
@@ -137,12 +138,15 @@ class TemplateAgent(DefaultParty):
 
         if isinstance(profile, UtilitySpace):
             reservation_bid = profile.getReservationBid()
+            if reservation_bid is None:
+                return False
             reservation_value = profile.getUtility(reservation_bid)
             utility_target = (reservation_value + 1) / 2
+            boulware_e = 0.2
+            ft1 = round(Decimal(float(1 - pow(progress, 1 / boulware_e)), 6))  # defaults ROUND_HALF_UP
+            return profile.getUtility(bid) > (reservation_value + (utility_target - reservation_value) * ft1)
 
-        boulware_e = 0.2
-        ft1 = round(float(1 - pow(progress, 1 / boulware_e)), 6)  # defaults ROUND_HALF_UP
-        return reservation_value + (utility_target - reservation_value) * ft1
+
 
 
         # progressArray = [0, 0.2, 0.4, 0.6, 0.8]
