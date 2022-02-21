@@ -165,6 +165,7 @@ class TemplateAgent(DefaultParty):
         domain = self._profile.getProfile().getDomain()
         all_bids = AllBidsList(domain)
 
+
         # take 50 attempts at finding a random bid that is acceptable to us
         for _ in range(50):
             bid = all_bids.get(randint(0, all_bids.size() - 1))
