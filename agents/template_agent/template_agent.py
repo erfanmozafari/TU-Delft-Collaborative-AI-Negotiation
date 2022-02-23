@@ -1,4 +1,5 @@
 import logging
+import numpy as np
 from random import randint
 from typing import cast
 
@@ -19,7 +20,9 @@ from geniusweb.issuevalue.ValueSet import ValueSet
 from decimal import Decimal
 from geniusweb.party.Capabilities import Capabilities
 from geniusweb.party.DefaultParty import DefaultParty
+from geniusweb.profile.utilityspace import LinearAdditive
 from geniusweb.profile.utilityspace.UtilitySpace import UtilitySpace
+from geniusweb.profileconnection import ProfileInterface
 from geniusweb.profileconnection.ProfileConnectionFactory import (
     ProfileConnectionFactory,
 )
@@ -36,9 +39,15 @@ class TemplateAgent(DefaultParty):
     def __init__(self):
         super().__init__()
         self.getReporter().log(logging.INFO, "party is initialized")
-        self._profile = None
+        self._profile: ProfileInterface = None
         self._last_received_bid: Bid = None
         self.bidList: list[Bid] = []
+        self.bidListOpp: list[Bid] = []
+        self.weightList: list[Decimal] = []
+        self.weightListOpp: list[Decimal] = []
+        self.deltas: list[Decimal] = []
+        self.taus: list[Decimal] = []
+        self.tau_gen: Decimal = Decimal(0.25)
 
     def notifyChange(self, info: Inform):
         """This is the entry point of all interaction with your agent after is has been initialised.
@@ -52,6 +61,11 @@ class TemplateAgent(DefaultParty):
         if isinstance(info, Settings):
             self._settings: Settings = cast(Settings, info)
             self._me = self._settings.getID()
+            profile: LinearAdditive = self._profile.getProfile()
+            self.weightList = profile.getWeights()
+            self.weightListOpp = np.full(len(self.weightList), round(1/len(self.weightList)))
+            self.deltas = self._deltas()
+            self.taus = self._taus()
 
             # progress towards the deadline has to be tracked manually through the use of the Progress object
             self._progress: ProgressRounds = self._settings.getProgress()
@@ -67,10 +81,13 @@ class TemplateAgent(DefaultParty):
             # if it is an offer, set the last received bid
             if isinstance(action, Offer):
                 self._last_received_bid = cast(Offer, action).getBid()
+                self.bidListOpp.append(self._last_received_bid)
         # YourTurn notifies you that it is your turn to act
         elif isinstance(info, YourTurn):
             # execute a turn
-            self._myTurn()
+            action = self._myTurn()
+            if action is Offer:
+                self.bidList.append(action.getBid())
 
             # log that we advanced a turn
             self._progress = self._progress.advance()
@@ -124,8 +141,35 @@ class TemplateAgent(DefaultParty):
 
         # send the action
         self.getConnection().send(action)
+        return action
 
-    # def _analyzeOpponent(self):
+
+
+    def _deltas(self) -> list[Decimal]:
+        deltas: list[Decimal] = []
+        for i in range(len(self.weightList)):
+            delta: Decimal = (self.weightListOpp[i] - self.weightList[i])/(self.weightListOpp[i] + self.weightList[i])
+            deltas.append(delta)
+        return deltas
+
+    def _taus(self) -> list[Decimal]:
+        taus: list[Decimal] = []
+        for i in range(len(self.weightList)):
+            tau: Decimal = self.tau_gen * (1 + self.deltas[i])
+            taus.append(tau)
+        return taus
+
+    def _estimateOppWeights(self):
+
+
+    def _analyzeOpponent(self):
+
+
+
+
+        # Todo Analyze the weights?
+        # Todo Analyze the bidding strategy
+        # Todo Analyze the acceptance strategy
 
     # method that checks if we would agree with an offer
     # Override
