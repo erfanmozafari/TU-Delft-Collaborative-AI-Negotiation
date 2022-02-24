@@ -1,5 +1,6 @@
 import logging
 import numpy as np
+import math
 from random import randint
 from typing import cast
 
@@ -44,6 +45,7 @@ class TemplateAgent(DefaultParty):
         self.bidList: list[Bid] = []
         self.bidListOpp: list[Bid] = []
         self.weightList: list[Decimal] = []
+        self.weightListLastBidOpp: list[Decimal] = []
         self.weightListOpp: list[Decimal] = []
         self.deltas: list[Decimal] = []
         self.taus: list[Decimal] = []
@@ -160,6 +162,36 @@ class TemplateAgent(DefaultParty):
         return taus
 
     def _estimateOppWeights(self):
+        n = len(self.weightList)
+        r = np.zeros(n)
+        keys: list[int] = np.arange(n).tolist()
+
+        # Give each attribute an id and sort the attributes based on their weight
+        dict_1: dict[int, Decimal] = dict(zip(keys, self.weightList))
+        sorted_dict_1: dict[int, Decimal] = dict(sorted(dict_1.items(), key=lambda item: item[1]))
+        dict_2: dict[int, Decimal] = dict(zip(keys, self.weightListLastBidOpp))
+        sorted_dict_2 = dict(sorted(dict_2.items(), key=lambda item: item[1]))
+
+        # R value depending on the distance in ordering
+        R = [6, 4, 3, 1, 0.5]
+
+        # Attributes ids ordered on their weights
+        sorted_keys_1 = sorted_dict_1.keys()
+        sorted_keys_2 = sorted_dict_2.keys()
+
+        for i in range(n):
+            for j in range(n):
+                # See how much the attribute differs from the previous weights. Based on a 5 point scale
+                if sorted_keys_2[j] == sorted_keys_1[i]:
+                    r[sorted_keys_1[i]] = R[math.floor(abs(i-j) * 5/n)]
+
+        sum_r = sum(r)
+        # Calculate the new weights based on the R values
+        new_weights: list[Decimal] = []
+        for i in range(n):
+            new_weights.append(Decimal(r[i] / sum_r))
+
+        return new_weights
 
 
     def _analyzeOpponent(self):
