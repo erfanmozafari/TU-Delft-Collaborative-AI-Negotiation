@@ -161,7 +161,26 @@ class TemplateAgent(DefaultParty):
             taus.append(tau)
         return taus
 
-    def _estimateOppWeights(self):
+    # Consider a switch in decision making as half-hearted bidding and therefore reduce
+    # the wight associated with that issue: (https://www.youtube.com/watch?v=xNONxu06XWA).
+    # Similiarly, consider persistence on issue values
+    # as an assertive stance and therefore put more weight on it.
+    # A switch in the initial rounds translates to less reduction than in later rounds : w - w ** (n-i+1)
+    def _estimateOppWeights(self, bids: list[Bid]) -> list[Decimal]:
+        n_issues = len(bids[0].getIssues())
+        ws = [1.0/n_issues] * len(n_issues)
+        i=0
+        n = len(bids)
+        while (i < n-1):
+            B1 = bids[i]
+            B2 = bids[i+1]
+            δs = [(1 if B1[i] == B2[i] else -1) for i in range(len(B1))]
+            ws = ws + ws * [abs(x)**(n-i) for x in δs/n]
+            normalized_ws =  ws / np.sqrt(np.sum(ws**2))
+            i += 1
+        return ws
+
+    def _estimateOppWeights_2(self):
         n = len(self.weightList)
         r = np.zeros(n)
         keys: list[int] = np.arange(n).tolist()
@@ -194,8 +213,8 @@ class TemplateAgent(DefaultParty):
         return new_weights
 
 
-    def _analyzeOpponent(self):
 
+    def _analyzeOpponent(self): pass
 
 
 
