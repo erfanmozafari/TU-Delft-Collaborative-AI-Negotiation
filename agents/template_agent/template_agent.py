@@ -63,11 +63,7 @@ class TemplateAgent(DefaultParty):
         if isinstance(info, Settings):
             self._settings: Settings = cast(Settings, info)
             self._me = self._settings.getID()
-            profile: LinearAdditive = self._profile.getProfile()
-            self.weightList = profile.getWeights()
-            self.weightListOpp = np.full(len(self.weightList), round(1/len(self.weightList)))
-            self.deltas = self._deltas()
-            self.taus = self._taus()
+
 
             # progress towards the deadline has to be tracked manually through the use of the Progress object
             self._progress: ProgressRounds = self._settings.getProgress()
@@ -76,6 +72,12 @@ class TemplateAgent(DefaultParty):
             self._profile = ProfileConnectionFactory.create(
                 info.getProfile().getURI(), self.getReporter()
             )
+
+            profile: LinearAdditive = self._profile.getProfile()
+            self.weightList: list[Decimal] = list(profile.getWeights().values())
+            self.weightListOpp = np.full(len(self.weightList), Decimal(round(1 / len(self.weightList))))
+            self.deltas = self._deltas()
+            self.taus = self._taus()
         # ActionDone is an action send by an opponent (an offer or an accept)
         elif isinstance(info, ActionDone):
             action: Action = cast(ActionDone, info).getAction()
@@ -176,7 +178,7 @@ class TemplateAgent(DefaultParty):
             B2 = bids[i+1]
             δs = [(1 if B1[i] == B2[i] else -1) for i in range(len(B1))]
             ws = ws + ws * [abs(x)**(n-i) for x in δs/n]
-            normalized_ws =  ws / np.sqrt(np.sum(ws**2))
+            normalized_ws = ws / np.sqrt(np.sum(ws**2))
             i += 1
         return ws
 
@@ -230,16 +232,19 @@ class TemplateAgent(DefaultParty):
         profile = self._profile.getProfile()
 
         progress = self._progress.get(0)
-
         if isinstance(profile, UtilitySpace):
+
             reservation_bid = profile.getReservationBid()
             if reservation_bid is None:
                 return False
             reservation_value = profile.getUtility(reservation_bid)
+            # print(reservation_value)
             utility_target = (reservation_value + 1) / 2
             boulware_e = 0.2
-            ft1 = round(Decimal(float(1 - pow(progress, 1 / boulware_e)), 6))  # defaults ROUND_HALF_UP
-            return profile.getUtility(bid) > (reservation_value + (utility_target - reservation_value) * ft1)
+            ft1 = round(Decimal(float(1 - pow(progress, 1 / boulware_e))), 6)  # defaults ROUND_HALF_UP
+            final = reservation_value + (utility_target - reservation_value) * ft1
+            print(final)
+            return profile.getUtility(bid) > final
 
 
 
@@ -261,7 +266,7 @@ class TemplateAgent(DefaultParty):
         all_bids = AllBidsList(domain)
 
         # take 50 attempts at finding a random bid that is acceptable to us
-        for _ in range(50):
+        for _ in range(200):
             bid = all_bids.get(randint(0, all_bids.size() - 1))
             if self._isGood(bid):
                 break
