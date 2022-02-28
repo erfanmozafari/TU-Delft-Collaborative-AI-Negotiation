@@ -265,7 +265,8 @@ class TimeDependentAgent(DefaultParty):
         ft1 = Decimal(1)
         if e != 0:
             ft1 = round(Decimal(1 - pow(t, 1 / e)), 6)  # defaults ROUND_HALF_UP
-        return max(min((minUtil + (maxUtil - minUtil) * ft1), maxUtil), minUtil)
+        final = max(min((minUtil + (maxUtil - minUtil) * ft1), maxUtil), minUtil)
+        return final
 
     def _vote(self, voting: Voting) -> Votes:  # throws IOException
         """

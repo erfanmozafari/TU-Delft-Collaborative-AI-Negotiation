@@ -21,7 +21,7 @@ from geniusweb.issuevalue.ValueSet import ValueSet
 from decimal import Decimal
 from geniusweb.party.Capabilities import Capabilities
 from geniusweb.party.DefaultParty import DefaultParty
-from geniusweb.profile.utilityspace import LinearAdditive
+from geniusweb.profile.utilityspace import LinearAdditive, ValueSetUtilities
 from geniusweb.profile.utilityspace.UtilitySpace import UtilitySpace
 from geniusweb.profileconnection import ProfileInterface
 from geniusweb.profileconnection.ProfileConnectionFactory import (
@@ -180,18 +180,18 @@ class TemplateAgent(DefaultParty):
             ws = ws + ws * [abs(x)**(n-i) for x in δs/n]
             normalized_ws = ws / np.sqrt(np.sum(ws**2))
             i += 1
-        return ws
+        return normalized_ws
 
-    def _estimateOppWeights_2(self):
+    def _estimateOppWeights_2(self, current_estimated_opp_weights, previous_estimated_opp_weights) -> list[Decimal]:
         n = len(self.weightList)
         r = np.zeros(n)
         keys: list[int] = np.arange(n).tolist()
 
         # Give each attribute an id and sort the attributes based on their weight
-        dict_1: dict[int, Decimal] = dict(zip(keys, self.weightList))
+        dict_1: dict[int, Decimal] = dict(zip(keys, current_estimated_opp_weights))
         sorted_dict_1: dict[int, Decimal] = dict(sorted(dict_1.items(), key=lambda item: item[1]))
-        dict_2: dict[int, Decimal] = dict(zip(keys, self.weightListLastBidOpp))
-        sorted_dict_2 = dict(sorted(dict_2.items(), key=lambda item: item[1]))
+        dict_2: dict[int, Decimal] = dict(zip(keys, previous_estimated_opp_weights))
+        sorted_dict_2: dict[int, Decimal] = dict(sorted(dict_2.items(), key=lambda item: item[1]))
 
         # R value depending on the distance in ordering
         R = [6, 4, 3, 1, 0.5]
@@ -214,15 +214,25 @@ class TemplateAgent(DefaultParty):
 
         return new_weights
 
+    def _estimateOppWeights_3(self) -> list[Decimal]:
+        if len(self.bidListOpp) >= 6:
+            current_estimated_opp_weights = self._estimateOppWeights(self.bidListOpp)
+            new_weights = self._estimateOppWeights_2(self.weightListOpp, current_estimated_opp_weights)
+            self.weightListOpp = new_weights
+
+        return self.weightListOpp
+
+
+        #Todo combine the two function together with the found tau values
 
 
     def _analyzeOpponent(self): pass
-
-
-
         # Todo Analyze the weights?
+
+
+    def _analyzeOppenentStrategy(self): pass
         # Todo Analyze the bidding strategy
-        # Todo Analyze the acceptance strategy
+        # Todo Analyze the acceptance strategy maybe??
 
     # method that checks if we would agree with an offer
     # Override
@@ -240,12 +250,13 @@ class TemplateAgent(DefaultParty):
             reservation_value = profile.getUtility(reservation_bid)
             # print(reservation_value)
             utility_target = (reservation_value + 1) / 2
-            boulware_e = 0.2
+            boulware_e = .2
             ft1 = round(Decimal(float(1 - pow(progress, 1 / boulware_e))), 6)  # defaults ROUND_HALF_UP
-            final = reservation_value + (utility_target - reservation_value) * ft1
-            print(final)
-            return profile.getUtility(bid) > final
+            final = max(min((reservation_value + (utility_target - reservation_value) * ft1), utility_target), reservation_value)
+            # print(final)
+            # final = reservation_value + (utility_target - reservation_value) * ft1
 
+            return profile.getUtility(bid) > final
 
 
 
@@ -259,6 +270,28 @@ class TemplateAgent(DefaultParty):
         # 80% of the rounds towards the deadline have passed
         # return profile.getUtility(bid) > 0.6 and progress > 0.8
 
+    def _isGoodOpp(self, bid: Bid) -> bool:
+        opp_utility = []
+        profile = self._profile.getProfile()
+
+        print(profile)
+        if isinstance(profile, UtilitySpace):
+            utilities = profile.getUtilities()
+            keys: list[str] = list(utilities.keys())
+            for i in range(len(keys)):
+                utility = utilities[keys[i]]
+                value = utility.getUtility(bid.getValue(keys[i]))
+                opp_utility.append(value / self.weightList[i] * self.weightListOpp[i])
+
+        opp_utility = np.array(opp_utility)
+        print(opp_utility)
+        normalized = opp_utility / np.sqrt(np.sum(opp_utility**2))
+        return np.sum(normalized) > 0.2
+
+
+        # Todo implemtent is good function based on the opponents weights
+
+
     # Override
     def _findBid(self) -> Bid:
         # compose a list of all possible bids
@@ -268,6 +301,7 @@ class TemplateAgent(DefaultParty):
         # take 50 attempts at finding a random bid that is acceptable to us
         for _ in range(200):
             bid = all_bids.get(randint(0, all_bids.size() - 1))
-            if self._isGood(bid):
+            if self._isGood(bid) and self._isGoodOpp(bid):
+                print(bid)
                 break
         return bid
