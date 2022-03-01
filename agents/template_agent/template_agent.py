@@ -24,6 +24,7 @@ from geniusweb.profileconnection.ProfileConnectionFactory import (
     ProfileConnectionFactory,
 )
 from geniusweb.progress.ProgressRounds import ProgressRounds
+from tudelft.utilities.immutablelist.ImmutableList import ImmutableList
 
 from agents.time_dependent_agent.time_dependent_agent import TimeDependentAgent
 
@@ -172,3 +173,29 @@ class TemplateAgent(DefaultParty):
             if self._isGood(bid):
                 break
         return bid
+
+
+    def time_dependent_concession_strategy(self, beta: float):
+        progress: float = self._progress.get(0)
+        profile = self._profile.getProfile()
+
+        reservation_bid: Bid = profile.getReservationBid()
+        minUtil = 0.6  # reservation value
+        if reservation_bid is None:
+            minUtil = 0.6
+        reservation_value = profile.getUtility(reservation_bid)
+
+        maxUtil: float = 1
+
+        ft1 = Decimal(1)
+        if beta != 0:
+            ft1 = round(Decimal(1 - pow(progress, 1 / beta)), 6)  # defaults ROUND_HALF_UP
+        utilityGoal = max(min((minUtil + (maxUtil - minUtil) * ft1), maxUtil), minUtil)
+
+        options: ImmutableList[Bid] = self._extendedspace.getBids(utilityGoal)
+        if options.size() == 0:
+            # if we can't find good bid, get max util bid....
+            options = self._extendedspace.getBids(self._extendedspace.getMax())
+        # pick a random one.
+        return options.get(randint(0, options.size() - 1))
+
