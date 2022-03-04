@@ -3022,3 +3022,18 @@ Stack (most recent call last):
 2022-02-19 13:42:15,158 - ConcederAgent - INFO - party is terminating:
 2022-02-19 13:42:15,158 - ConcederAgent - INFO - party is terminating:
 2022-02-19 13:42:15,158 - ConcederAgent - INFO - party is terminating:
+2022-03-05 00:17:28,112 - ConcederAgent - INFO - party is initialized
+2022-03-05 00:17:29,140 - ConcederAgent - INFO - Final ourcome:Finished[Agreements{}]
+2022-03-05 00:17:29,145 - ConcederAgent - INFO - party is terminating:
+2022-03-05 00:18:17,284 - ConcederAgent - INFO - party is initialized
+2022-03-05 00:18:18,302 - ConcederAgent - INFO - Final ourcome:Finished[Agreements{}]
+2022-03-05 00:18:18,308 - ConcederAgent - INFO - party is terminating:
+2022-03-05 00:18:41,489 - ConcederAgent - INFO - party is initialized
+2022-03-05 00:18:42,528 - ConcederAgent - INFO - Final ourcome:Finished[Agreements{}]
+2022-03-05 00:18:42,544 - ConcederAgent - INFO - party is terminating:
+2022-03-05 00:18:57,316 - ConcederAgent - INFO - party is initialized
+2022-03-05 00:18:58,343 - ConcederAgent - INFO - Final ourcome:Finished[Agreements{}]
+2022-03-05 00:18:58,344 - ConcederAgent - INFO - party is terminating:
+2022-03-05 00:19:19,483 - ConcederAgent - INFO - party is initialized
+2022-03-05 00:19:20,510 - ConcederAgent - INFO - Final ourcome:Finished[Agreements{}]
+2022-03-05 00:19:20,514 - ConcederAgent - INFO - party is terminating:

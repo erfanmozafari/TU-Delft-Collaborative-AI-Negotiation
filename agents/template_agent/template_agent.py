@@ -55,7 +55,7 @@ class TemplateAgent(DefaultParty):
         # self.taus: list[Decimal] = []
         # self.tau_gen: Decimal = Decimal(0.25)
         self.issue_value_frequencies = {}
-        self.cc = 1     #concession constant
+        self.cc = 1  # concession constant
 
     def notifyChange(self, info: Inform):
         """This is the entry point of all interaction with your agent after is has been initialised.
@@ -69,7 +69,6 @@ class TemplateAgent(DefaultParty):
         if isinstance(info, Settings):
             self._settings: Settings = cast(Settings, info)
             self._me = self._settings.getID()
-
 
             # progress towards the deadline has to be tracked manually through the use of the Progress object
             self._progress: ProgressRounds = self._settings.getProgress()
@@ -93,7 +92,7 @@ class TemplateAgent(DefaultParty):
                 self._last_received_bid = cast(Offer, action).getBid()
                 self.bidListOpp.append(self._last_received_bid)
                 self.weightListOpp = self._estimateOppWeights(self.bidListOpp)
-                #self.weightListOpp = self._estimateOppWeights_2(round_one_opp_estimate, self.weightListOpp)
+                # self.weightListOpp = self._estimateOppWeights_2(round_one_opp_estimate, self.weightListOpp)
                 self._updateFrequencies(self._last_received_bid)
 
         # YourTurn notifies you that it is your turn to act
@@ -165,7 +164,7 @@ class TemplateAgent(DefaultParty):
     def _deltas(self) -> list[Decimal]:
         deltas: list[Decimal] = []
         for i in range(len(self.weightList)):
-            delta: Decimal = (self.weightListOpp[i] - self.weightList[i])/(self.weightListOpp[i] + self.weightList[i])
+            delta: Decimal = (self.weightListOpp[i] - self.weightList[i]) / (self.weightListOpp[i] + self.weightList[i])
             deltas.append(delta)
         return deltas
 
@@ -183,15 +182,15 @@ class TemplateAgent(DefaultParty):
     # A switch in the initial rounds translates to less reduction than in later rounds : w - w ** (n-i+1)
     def _estimateOppWeights(self, bids: list[Bid]) -> list[Decimal]:
         n_issues = len(bids[0].getIssues())
-        ws = [1.0/n_issues] * len(n_issues)
-        i=0
+        ws = [1.0 / n_issues] * len(n_issues)
+        i = 0
         n = len(bids)
-        while (i < n-1):
+        while (i < n - 1):
             B1 = bids[i]
-            B2 = bids[i+1]
+            B2 = bids[i + 1]
             δs = [(1 if B1[i] == B2[i] else -1) for i in range(len(B1))]
-            ws = ws + ws * [abs(x)**(n-i) for x in δs/n]
-            normalized_ws = ws / np.sqrt(np.sum(ws**2))
+            ws = ws + ws * [abs(x) ** (n - i) for x in δs / n]
+            normalized_ws = ws / np.sqrt(np.sum(ws ** 2))
             i += 1
         return normalized_ws
 
@@ -217,7 +216,7 @@ class TemplateAgent(DefaultParty):
             for j in range(n):
                 # See how much the attribute differs from the previous weights. Based on a 5 point scale
                 if sorted_keys_2[j] == sorted_keys_1[i]:
-                    r[sorted_keys_1[i]] = R[math.floor(abs(i-j) * 5/n)]
+                    r[sorted_keys_1[i]] = R[math.floor(abs(i - j) * 5 / n)]
 
         sum_r = sum(r)
         # Calculate the new weights based on the R values
@@ -235,71 +234,22 @@ class TemplateAgent(DefaultParty):
 
     #     return self.weightListOpp
 
-        #Todo combine the two function together with the found tau values
-
+    # Todo combine the two function together with the found tau values
 
     # def _analyzeOpponent(self): pass
     #     # Todo Analyze the weights?
 
-
     # def _analyzeOppenentStrategy(self): pass
     #     # Todo Analyze the bidding strategy
     #     # Todo Analyze the acceptance strategy maybe??
-
-    # method that checks if we would agree with an offer
-    # Override
-    # def _isGood(self, bid: Bid) -> bool:
-    #     ## make acceptance a function of time
-    #     if bid is None:
-    #         return False
-    #     profile = self._profile.getProfile()
-
-    #     progress = self._progress.get(0)
-    #     if isinstance(profile, UtilitySpace):
-
-    #         reservation_bid = profile.getReservationBid()
-    #         if reservation_bid is None:
-    #             return False
-    #         reservation_value = profile.getUtility(reservation_bid)
-    #         # print(reservation_value)
-    #         utility_target = (reservation_value + 1) / 2
-    #         boulware_e = .2
-    #         ft1 = round(Decimal(float(1 - pow(progress, 1 / boulware_e))), 6)  # defaults ROUND_HALF_UP
-    #         final = max(min((reservation_value + (utility_target - reservation_value) * ft1), utility_target), reservation_value)
-    #         # print(final)
-    #         # final = reservation_value + (utility_target - reservation_value) * ft1
-
-    #         return profile.getUtility(bid) > final
-
-
-
-
-    # Override
-    # def _findBid(self) -> Bid:
-    #     # compose a list of all possible bids
-    #     domain = self._profile.getProfile().getDomain()
-    #     all_bids = AllBidsList(domain)
-
-    #     # take 50 attempts at finding a random bid that is acceptable to us
-    #     for _ in range(100):
-    #         bid = all_bids.get(randint(0, all_bids.size() - 1))
-    #         if self._isGood(bid): #and self._isGoodOpp(bid):
-    #             print(bid)
-    #             break
-
-    #     return bid
-
 
     def _findBid(self) -> Bid:
         # compose a list of all possible bids
         domain = self._profile.getProfile().getDomain()
         all_bids = AllBidsList(domain)
 
-        # Make 200 bids get the best out of all
-        bids = [all_bids.get(randint(0, all_bids.size() - 1)) for _ in range(200)]
-        scores = [self._evaluate_bid(bid) for bid in bids]
-        return bids[scores.index(max(scores))]
-
+        beta = 0.5  # 0 = hardliner, 0.2 = boulware, 1 = linear agent, 2 = conceder
+        return self.time_dependent_bidding(beta)
 
     # {"issue1" : "valueA" (0.55) > "valueC" (0.42) > "valueB" (0.03)
     #  "issue2" : "valueB" (.80) > "valueC" (0.15) > "valueA" (0.18) > "valueD" (0.02)
@@ -307,14 +257,14 @@ class TemplateAgent(DefaultParty):
     # }
     # bid B1: (C, B, A)
     # g(B1) : (0.42/0.55 + 0.8/0.8 + 0.25/0.75) / 3 =  0.69
-    def _getTheirUtility(self, bid : Bid) :
+    def _getTheirUtility(self, bid: Bid):
         frequencies = self.issue_value_frequencies.copy()
         for issue in frequencies.keys():
             N = sum(frequencies[issue].values())
             for value in frequencies[issue].keys():
                 frequencies[issue][value] /= float(N)
 
-        #(0.45, 0.35, 0.2)
+        # (0.45, 0.35, 0.2)
         issue_values = bid.getIssueValues()
         result = 0.0
         for issue in issue_values.keys():
@@ -329,38 +279,38 @@ class TemplateAgent(DefaultParty):
         result /= len(bid.getIssues())
         return Decimal(result)
 
-    def _updateFrequencies(self, bid : Bid) :
+    def _updateFrequencies(self, bid: Bid):
         issue_values = bid.getIssueValues()
         for issue in issue_values.keys():
             value = issue_values[issue]
-            if not(issue in self.issue_value_frequencies):
+            if not (issue in self.issue_value_frequencies):
                 self.issue_value_frequencies[issue] = {}
-            if not(value in self.issue_value_frequencies[issue]):
+            if not (value in self.issue_value_frequencies[issue]):
                 self.issue_value_frequencies[issue][value] = 0
 
             self.issue_value_frequencies[issue][value] += 1
 
     # Consider a switch in decision making as half-hearted bidding and therefore reduce
-    # the wight associated with that issue: (https://www.youtube.com/watch?v=xNONxu06XWA).
-    # Similiarly, consider persistence on issue values
+    # the weight associated with that issue: (https://www.youtube.com/watch?v=xNONxu06XWA).
+    # Similarly, consider persistence on issue values
     # as an assertive stance and therefore put more weight on it.
     # A switch in the initial rounds translates to less reduction than in later rounds : w - w ** (n-i+1)
     def _estimateOppWeights(self, bids: list[Bid]) -> dict[str, Decimal]:
         issues = bids[0].getIssues()
         n_issues = len(issues)
-        ws = np.asarray([1.0/n_issues] * n_issues)
+        ws = np.asarray([1.0 / n_issues] * n_issues)
 
         n = len(bids)
-        for i in range(n-1):
+        for i in range(n - 1):
             B1 = bids[i]
-            B2 = bids[i+1]
+            B2 = bids[i + 1]
             issues = B1.getIssues()
             δs = [(1 if B1.getValue(issue) == B2.getValue(issue) else -1) for issue in issues]
             δs = np.asarray(δs)
-            ws = ws + ws * [abs(x)**(n-i)/n for x in δs]
-            ws = ws / np.sqrt(np.sum(ws**2))                # normalize
+            ws = ws + ws * [abs(x) ** (n - i) / n for x in δs]
+            ws = ws / np.sqrt(np.sum(ws ** 2))  # normalize
 
-        result = {issue : ws[i] for i,issue in enumerate(issues)}
+        result = {issue: ws[i] for i, issue in enumerate(issues)}
         return result
 
     def _evaluate_bid(self, bid: Bid):
@@ -371,32 +321,31 @@ class TemplateAgent(DefaultParty):
         U_theirs = self._getTheirUtility(bid)
         a = Decimal(1 - progress)
 
-        if (a < 1.0/2) : return U_mine
-        if (a >= 1.0/2) : return (a * U_mine + (1-a) * U_theirs) / 2
+        if a < 1.0 / 2: return U_mine
+        if a >= 1.0 / 2: return (a * U_mine + (1 - a) * U_theirs) / 2
 
-            #return (2 * a * U_mine + (1-a) * U_theirs) / 2
+        # return (2 * a * U_mine + (1-a) * U_theirs) / 2
 
-    def _isGoodNew(self, bid : Bid) -> bool:
+    def _isGoodNew(self, bid: Bid) -> bool:
         if bid is None:
             return False
         profile = self._profile.getProfile()
 
         progress = self._progress.get(0)
         if isinstance(profile, UtilitySpace):
-
             reservation_bid = profile.getReservationBid()
             if reservation_bid is None and progress >= 0.99:
                 return True
             reservation_value = 0.3
-            if not (reservation_bid is None):
+            if reservation_bid is not None:
                 reservation_value = profile.getUtility(reservation_bid)
-            utility_target = (reservation_value + 1) / 2
-            if (progress >= 0.99 and self._evaluate_bid(bid) < utility_target):
+            # the utility target was too high I think
+            # utility_target = (reservation_value + 1) / 2
+            utility_target = reservation_value
+            if progress >= 0.99 and self._evaluate_bid(bid) < utility_target:
                 return True
 
             return self._evaluate_bid(bid) >= utility_target
-
-
 
         # progressArray = [0, 0.2, 0.4, 0.6, 0.8]
         # utilityArray = [0, 0.9, 0.8, 0.7, 0.6]
@@ -423,38 +372,21 @@ class TemplateAgent(DefaultParty):
 
         opp_utility = np.array(opp_utility)
         print(opp_utility)
-        normalized = opp_utility / np.sqrt(np.sum(opp_utility**2))
+        normalized = opp_utility / np.sqrt(np.sum(opp_utility ** 2))
         return np.sum(normalized) > 0.2
-
 
         # Todo implemtent is good function based on the opponents weights
 
-
-    # Override
-    def _findBid(self) -> Bid:
-        # compose a list of all possible bids
-        domain = self._profile.getProfile().getDomain()
-        all_bids = AllBidsList(domain)
-
-        # take 50 attempts at finding a random bid that is acceptable to us
-        for _ in range(200):
-            bid = all_bids.get(randint(0, all_bids.size() - 1))
-            if self._isGood(bid) and self._isGoodOpp(bid):
-                print(bid)
-                break
-        return bid
-
-
-    def time_dependent_concession_strategy(self, beta: float):
+    def time_dependent_bidding(self, beta: float) -> Bid:
         progress: float = self._progress.get(0)
         profile = self._profile.getProfile()
 
         reservation_bid: Bid = profile.getReservationBid()
-        min_util = 0.6  # reservation value
+        min_util = Decimal(0.6)  # reservation value
         if reservation_bid is None:
-            min_util = profile.getUtility(reservation_bid)
+            min_util = Decimal(profile.getUtility(reservation_bid))
 
-        max_util: float = 1
+        max_util: Decimal = Decimal(1)
 
         ft1 = Decimal(1)
         if beta != 0:
@@ -467,4 +399,3 @@ class TemplateAgent(DefaultParty):
             options = self._extendedspace.getBids(self._extendedspace.getMax())
         # pick a random one.
         return options.get(randint(0, options.size() - 1))
-
