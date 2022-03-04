@@ -30,6 +30,7 @@ from geniusweb.profileconnection.ProfileConnectionFactory import (
 from geniusweb.progress.ProgressRounds import ProgressRounds
 from tudelft.utilities.immutablelist.ImmutableList import ImmutableList
 
+from agents.time_dependent_agent.extended_util_space import ExtendedUtilSpace
 from agents.time_dependent_agent.time_dependent_agent import TimeDependentAgent
 
 
@@ -43,6 +44,7 @@ class TemplateAgent(DefaultParty):
         self.getReporter().log(logging.INFO, "party is initialized")
         self._profile: ProfileInterface = None
         self._last_received_bid: Bid = None
+        self._extendedspace: ExtendedUtilSpace = None
         self.bidList: list[Bid] = []
         self.bidListOpp: list[Bid] = []
         self.weightList: list[Decimal] = []
@@ -135,6 +137,7 @@ class TemplateAgent(DefaultParty):
     # execute a turn
     # Override
     def _myTurn(self):
+        self._updateExtUtilSpace()
         # check if the last received offer if the opponent is good enough
         if self._isGood(self._last_received_bid):
             # if so, accept the offer
@@ -148,7 +151,9 @@ class TemplateAgent(DefaultParty):
         self.getConnection().send(action)
         return action
 
-
+    def _updateExtUtilSpace(self):  # throws IOException
+        newutilspace: LinearAdditive = self._profile.getProfile()
+        self._extendedspace = ExtendedUtilSpace(newutilspace)
 
     def _deltas(self) -> list[Decimal]:
         deltas: list[Decimal] = []
@@ -314,17 +319,16 @@ class TemplateAgent(DefaultParty):
         profile = self._profile.getProfile()
 
         reservation_bid: Bid = profile.getReservationBid()
-        minUtil = 0.6  # reservation value
+        min_util = 0.6  # reservation value
         if reservation_bid is None:
-            minUtil = 0.6
-        reservation_value = profile.getUtility(reservation_bid)
+            min_util = profile.getUtility(reservation_bid)
 
-        maxUtil: float = 1
+        max_util: float = 1
 
         ft1 = Decimal(1)
         if beta != 0:
             ft1 = round(Decimal(1 - pow(progress, 1 / beta)), 6)  # defaults ROUND_HALF_UP
-        utilityGoal = max(min((minUtil + (maxUtil - minUtil) * ft1), maxUtil), minUtil)
+        utilityGoal: Decimal = min_util + (max_util - min_util) * ft1
 
         options: ImmutableList[Bid] = self._extendedspace.getBids(utilityGoal)
         if options.size() == 0:
