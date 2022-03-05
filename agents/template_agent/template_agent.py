@@ -339,27 +339,29 @@ class TemplateAgent(DefaultParty):
         progress = self._progress.get(0)
         bidsFromW = []
         maxBidFromW = 0
+        W = 0.02
+        T = 0.98
         if isinstance(profile, UtilitySpace):
             reservation_bid = profile.getReservationBid()
-            T = 0.98
             if reservation_bid is None and progress >= T:
                 return True
             reservation_value = 0.3
             if reservation_bid is not None:
                 reservation_value = profile.getUtility(reservation_bid)
 
+            receivedBid = self._evaluate_bid(bid)
             # If the opponent's bid is better than our next planned bid, accept
-            if(self._evaluate_bid(bid) > self._evaluate_bid(plannedBid)):
+            if(receivedBid > self._evaluate_bid(plannedBid)):
                 return True
 
             # Save bids from window W and save the best one
             if (progress >= T - W and progress < T):
-                bidsFromW.append(self._evaluate_bid(bid))
-                if (self._evaluate_bid(bid) > maxBidFromW):
-                    maxBidFromW = self._evaluate_bid(bid)
+                bidsFromW.append(receivedBid)
+                if (receivedBid > maxBidFromW):
+                    maxBidFromW = receivedBid
 
             utility_target = reservation_value * 5 / 3
-            if (progress >= T and self._evaluate_bid(bid) < utility_target and self._evaluate_bid(bid) >= maxBidFromW):
+            if (progress >= T and receivedBid < utility_target and receivedBid >= maxBidFromW):
                 return True
 
             return self._evaluate_bid(bid) >= utility_target
