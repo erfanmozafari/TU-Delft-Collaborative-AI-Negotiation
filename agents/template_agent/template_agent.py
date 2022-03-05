@@ -360,11 +360,13 @@ class TemplateAgent(DefaultParty):
                 if (receivedBid > maxBidFromW):
                     maxBidFromW = receivedBid
 
-            utility_target = reservation_value * 5 / 3
+            utility_target = reservation_value * 3 / 2
+            # After time T, accept the bid if it is better from the best bid recieved
+            # in the previous time window W
             if (progress >= T and receivedBid < utility_target and receivedBid >= maxBidFromW):
                 return True
 
-            return self._evaluate_bid(bid) >= utility_target
+            return receivedBid >= utility_target
 
     def _isGoodOpp(self, bid: Bid) -> bool:
         opp_utility = []
