@@ -145,7 +145,7 @@ class TemplateAgent(DefaultParty):
     def _myTurn(self):
         self._updateExtUtilSpace()
         # check if the last received offer if the opponent is good enough
-        if self._isGoodNew(self._last_received_bid):
+        if self._isGoodNew(self._last_received_bid, self._findBid()):
             # if so, accept the offer
             action = Accept(self._me, self._last_received_bid)
         else:
@@ -326,36 +326,43 @@ class TemplateAgent(DefaultParty):
 
         # return (2 * a * U_mine + (1-a) * U_theirs) / 2
 
-    def _isGoodNew(self, bid: Bid) -> bool:
+    # Acceptance condition
+    def _isGoodNew(self, bid: Bid, plannedBid: Bid) -> bool:
+        # the offer is acceptable if it is better than
+        # all offers received in the previous time window W
+        # or the offer is better than our next planned offer
+        # W = [T - (1 - T), T]
         if bid is None:
             return False
         profile = self._profile.getProfile()
 
         progress = self._progress.get(0)
+        bidsFromW = []
+        maxBidFromW = 0
         if isinstance(profile, UtilitySpace):
             reservation_bid = profile.getReservationBid()
-            if reservation_bid is None and progress >= 0.99:
+            T = 0.98
+            if reservation_bid is None and progress >= T:
                 return True
             reservation_value = 0.3
             if reservation_bid is not None:
                 reservation_value = profile.getUtility(reservation_bid)
-            # the utility target was too high I think
-            # utility_target = (reservation_value + 1) / 2
-            utility_target = reservation_value
-            if progress >= 0.99 and self._evaluate_bid(bid) < utility_target:
+
+            # If the opponent's bid is better than our next planned bid, accept
+            if(self._evaluate_bid(bid) > self._evaluate_bid(plannedBid)):
+                return True
+
+            # Save bids from window W and save the best one
+            if (progress >= T - W and progress < T):
+                bidsFromW.append(self._evaluate_bid(bid))
+                if (self._evaluate_bid(bid) > maxBidFromW):
+                    maxBidFromW = self._evaluate_bid(bid)
+
+            utility_target = reservation_value * 5 / 3
+            if (progress >= T and self._evaluate_bid(bid) < utility_target and self._evaluate_bid(bid) >= maxBidFromW):
                 return True
 
             return self._evaluate_bid(bid) >= utility_target
-
-        # progressArray = [0, 0.2, 0.4, 0.6, 0.8]
-        # utilityArray = [0, 0.9, 0.8, 0.7, 0.6]
-        # for i in range(1, len(progressArray)):
-        #     if progressArray[i - 1] <= progress <= progressArray[i]:
-        #         return profile.getUtility(bid) > utilityArray[i]
-
-        # very basic approach that accepts if the offer is valued above 0.6 and
-        # 80% of the rounds towards the deadline have passed
-        # return profile.getUtility(bid) > 0.6 and progress > 0.8
 
     def _isGoodOpp(self, bid: Bid) -> bool:
         opp_utility = []
