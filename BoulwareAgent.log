@@ -26807,3 +26807,87 @@
 2022-03-06 17:56:19,376 - BoulwareAgent - INFO - party is terminating:
 2022-03-06 17:56:19,376 - BoulwareAgent - INFO - party is terminating:
 2022-03-06 17:56:19,376 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:34:14,602 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:35:15,451 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{}]
+2022-03-06 21:35:15,454 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:38:04,456 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:38:06,155 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueB="valueD", issueA="valueF", issueC="valueE", issueE="valueA", issueD="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueD", issueA="valueF", issueC="valueE", issueE="valueA", issueD="valueA"}}]
+2022-03-06 21:38:06,170 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:38:51,449 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:38:54,474 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueC", issueE="valueC", issueA="valueI", issueC="valueE", issueB="valueJ"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueC", issueE="valueC", issueA="valueI", issueC="valueE", issueB="valueJ"}}]
+2022-03-06 21:38:54,475 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:39:44,328 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:39:46,612 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueB="valueJ", issueE="valueA", issueD="valueC", issueA="valueA", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueJ", issueE="valueA", issueD="valueC", issueA="valueA", issueC="valueE"}}]
+2022-03-06 21:39:46,647 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:40:27,306 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:40:29,204 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueC="valueE", issueA="valueF", issueB="valueD", issueD="valueA", issueE="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueC="valueE", issueA="valueF", issueB="valueD", issueD="valueA", issueE="valueA"}}]
+2022-03-06 21:40:29,205 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:40:38,491 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:40:40,938 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueC", issueB="valueD", issueE="valueA", issueC="valueE", issueA="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueC", issueB="valueD", issueE="valueA", issueC="valueE", issueA="valueA"}}]
+2022-03-06 21:40:40,938 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:47:18,730 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:47:21,298 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueC", issueE="valueA", issueC="valueE", issueA="valueA", issueB="valueD"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueC", issueE="valueA", issueC="valueE", issueA="valueA", issueB="valueD"}}]
+2022-03-06 21:47:21,298 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:47:48,955 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:47:52,028 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueE="valueE", issueB="valueD", issueD="valueC", issueA="valueE", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueE="valueE", issueB="valueD", issueD="valueC", issueA="valueE", issueC="valueE"}}]
+2022-03-06 21:47:52,028 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:48:13,819 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:48:16,592 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueB="valueE", issueE="valueC", issueA="valueG", issueC="valueE", issueD="valueC"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueE", issueE="valueC", issueA="valueG", issueC="valueE", issueD="valueC"}}]
+2022-03-06 21:48:16,592 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:52:46,103 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:52:48,422 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueC", issueC="valueE", issueE="valueA", issueA="valueA", issueB="valueJ"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueC", issueC="valueE", issueE="valueA", issueA="valueA", issueB="valueJ"}}]
+2022-03-06 21:52:48,422 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:53:09,002 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:53:11,767 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueC="valueE", issueA="valueD", issueE="valueC", issueD="valueC", issueB="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueC="valueE", issueA="valueD", issueE="valueC", issueD="valueC", issueB="valueE"}}]
+2022-03-06 21:53:11,767 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:54:29,227 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:54:32,240 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueA", issueA="valueE", issueC="valueE", issueE="valueA", issueB="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueA", issueA="valueE", issueC="valueE", issueE="valueA", issueB="valueE"}}]
+2022-03-06 21:54:32,240 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:55:05,643 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:55:07,629 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueC="valueE", issueE="valueA", issueA="valueF", issueB="valueD", issueD="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueC="valueE", issueE="valueA", issueA="valueF", issueB="valueD", issueD="valueA"}}]
+2022-03-06 21:55:07,629 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 21:55:24,361 - BoulwareAgent - INFO - party is initialized
+2022-03-06 21:55:27,181 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueC", issueB="valueB", issueA="valueA", issueE="valueA", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueC", issueB="valueB", issueA="valueA", issueE="valueA", issueC="valueE"}}]
+2022-03-06 21:55:27,182 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:01:18,195 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:01:20,896 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueA="valueA", issueE="valueA", issueD="valueC", issueB="valueJ", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueA="valueA", issueE="valueA", issueD="valueC", issueB="valueJ", issueC="valueE"}}]
+2022-03-06 22:01:20,906 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:03:11,357 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:03:14,403 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueE="valueA", issueB="valueD", issueA="valueA", issueC="valueE", issueD="valueC"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueE="valueA", issueB="valueD", issueA="valueA", issueC="valueE", issueD="valueC"}}]
+2022-03-06 22:03:14,418 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:03:40,900 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:03:44,427 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueB="valueD", issueD="valueC", issueA="valueA", issueE="valueA", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueD", issueD="valueC", issueA="valueA", issueE="valueA", issueC="valueE"}}]
+2022-03-06 22:03:44,428 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:07:27,645 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:07:30,175 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueA="valueF", issueD="valueA", issueE="valueA", issueC="valueE", issueB="valueD"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueA="valueF", issueD="valueA", issueE="valueA", issueC="valueE", issueB="valueD"}}]
+2022-03-06 22:07:30,175 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:07:45,021 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:07:47,701 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueA="valueA", issueE="valueC", issueC="valueE", issueB="valueD", issueD="valueC"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueA="valueA", issueE="valueC", issueC="valueE", issueB="valueD", issueD="valueC"}}]
+2022-03-06 22:07:47,701 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:09:59,800 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:10:02,203 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueB="valueE", issueD="valueA", issueE="valueA", issueA="valueE", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueE", issueD="valueA", issueE="valueA", issueA="valueE", issueC="valueE"}}]
+2022-03-06 22:10:02,203 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:11:46,169 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:11:48,856 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueA", issueB="valueE", issueA="valueE", issueC="valueE", issueE="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueA", issueB="valueE", issueA="valueE", issueC="valueE", issueE="valueA"}}]
+2022-03-06 22:11:48,872 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:11:59,948 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:12:02,927 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueB="valueE", issueA="valueJ", issueD="valueA", issueC="valueE", issueE="valueC"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueE", issueA="valueJ", issueD="valueA", issueC="valueE", issueE="valueC"}}]
+2022-03-06 22:12:02,928 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:13:11,693 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:13:14,704 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueE="valueA", issueA="valueF", issueB="valueD", issueD="valueA", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueE="valueA", issueA="valueF", issueB="valueD", issueD="valueA", issueC="valueE"}}]
+2022-03-06 22:13:14,704 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:15:42,030 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:15:45,078 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueD="valueA", issueE="valueA", issueA="valueF", issueB="valueD", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueD="valueA", issueE="valueA", issueA="valueF", issueB="valueD", issueC="valueE"}}]
+2022-03-06 22:15:45,096 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:15:53,043 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:15:55,251 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueA="valueF", issueB="valueD", issueD="valueA", issueE="valueA", issueC="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueA="valueF", issueB="valueD", issueD="valueA", issueE="valueA", issueC="valueE"}}]
+2022-03-06 22:15:55,252 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:16:05,278 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:16:07,828 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueB="valueJ", issueE="valueB", issueC="valueE", issueD="valueC", issueA="valueE"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueJ", issueE="valueB", issueC="valueE", issueD="valueC", issueA="valueE"}}]
+2022-03-06 22:16:07,828 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:16:26,675 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:16:28,825 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueC="valueE", issueA="valueA", issueB="valueD", issueD="valueC", issueE="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueC="valueE", issueA="valueA", issueB="valueD", issueD="valueC", issueE="valueA"}}]
+2022-03-06 22:16:28,825 - BoulwareAgent - INFO - party is terminating:
+2022-03-06 22:16:40,330 - BoulwareAgent - INFO - party is initialized
+2022-03-06 22:16:42,512 - BoulwareAgent - INFO - Final ourcome:Finished[Agreements{agents_boulware_agent_boulware_agent_BoulwareAgent_1=Bid{issueA="valueI", issueC="valueE", issueD="valueC", issueB="valueE", issueE="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueA="valueI", issueC="valueE", issueD="valueC", issueB="valueE", issueE="valueA"}}]
+2022-03-06 22:16:42,529 - BoulwareAgent - INFO - party is terminating:

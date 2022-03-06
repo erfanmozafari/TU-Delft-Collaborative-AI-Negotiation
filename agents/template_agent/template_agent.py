@@ -343,14 +343,15 @@ class TemplateAgent(DefaultParty):
     #     return True
 
     def _checkStrategyOpp(self) -> float:
-        if (len(self.bidListOpp) > 0):
-            bidSetOpp = set(self.bidListOpp)
-            print(len(bidSetOpp)/ len(self.bidListOpp))
-            t1 = len(bidSetOpp)/ len(self.bidListOpp)
-            if t1 > 0.25:
+        opp_bids_length = len(self.bidListOpp)
+        if opp_bids_length > 0:
+            unique_opp_bids_length = len(set(self.bidListOpp))
+            t1 = unique_opp_bids_length / opp_bids_length
+            print(t1)
+            if t1 > 0.35:
                 return 0.2
             else:
-                return 2
+                return 1.8
         else:
             return 0.2
 
@@ -379,7 +380,7 @@ class TemplateAgent(DefaultParty):
 
             receivedBid = self._evaluate_bid(bid)
             # If the opponent's bid is better than our next planned bid, accept
-            if(receivedBid > self._evaluate_bid(plannedBid)):
+            if (receivedBid > self._evaluate_bid(plannedBid)):
                 return True
 
             # Save bids from window W and save the best one
@@ -414,8 +415,6 @@ class TemplateAgent(DefaultParty):
     #     normalized = opp_utility / np.sqrt(np.sum(opp_utility ** 2))
     #     return np.sum(normalized) > 0.2
 
-        # Todo implemtent is good function based on the opponents weights
-
     def time_dependent_bidding(self, beta: float) -> Bid:
         progress: float = self._progress.get(0)
         profile = self._profile.getProfile()
@@ -438,7 +437,7 @@ class TemplateAgent(DefaultParty):
             options = self._extendedspace.getBids(self._extendedspace.getMax())
 
         for bid in options:
-            if self._isGoodNew(bid):
+            if self._isGoodNew(self._last_received_bid, bid):
                 return bid
 
         # else pick a random one.
@@ -450,18 +449,17 @@ class TemplateAgent(DefaultParty):
             self.weightListOpp = self.oppWeights()
             self.prev_issue_value_frequencies = copy.deepcopy(self.issue_value_frequencies)
 
-
     def val_estimation(self) -> dict[str, dict[Value, float]]:
-        gamma = 0.25
+        gamma = 0.5
         freqs = copy.deepcopy(self.issue_value_frequencies)
         value_func = copy.deepcopy(self.issue_value_frequencies)
         for issue in freqs.keys():
             max_value = max(freqs[issue], key=freqs[issue].get)
             for value in freqs[issue].keys():
-                value_func[issue][value] = ((1 + freqs[issue][value]) ** gamma) / ((1 + freqs[issue][max_value]) ** gamma)
+                value_func[issue][value] = ((1 + freqs[issue][value]) ** gamma) / (
+                            (1 + freqs[issue][max_value]) ** gamma)
 
         return value_func
-
 
     def oppWeights(self) -> dict[str, Decimal]:
         alpha = 10  # alpha denotes how much importance is added to weights
@@ -506,18 +504,13 @@ class TemplateAgent(DefaultParty):
 
         if len(e) != len(issue_list) and concession:
             for issue in e:
-                delta_t = Decimal(alpha * (1 - progress**beta))
+                delta_t = Decimal(alpha * (1 - progress ** beta))
                 new_weights[issue] += delta_t
 
         # Normalize weights
         summed = sum(new_weights.values())
         for key in new_weights:
-            new_weights[key] = Decimal(round(new_weights[key]/summed, 6))
+            new_weights[key] = Decimal(round(new_weights[key] / summed, 6))
 
         # print(new_weights)
         return new_weights
-
-
-
-
-
