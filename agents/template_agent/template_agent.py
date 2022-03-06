@@ -84,6 +84,7 @@ class TemplateAgent(DefaultParty):
             self.issue_names = list(self.weightList.keys())
             n = len(self.issue_names)
             self.weightListOpp = dict(zip(self.issue_names, np.full(n, Decimal(round(1 / n, 6)))))
+            self.issue_value_frequencies = dict(zip(self.issue_names, {}))
         # ActionDone is an action send by an opponent (an offer or an accept)
         elif isinstance(info, ActionDone):
             action: Action = cast(ActionDone, info).getAction()
@@ -249,33 +250,15 @@ class TemplateAgent(DefaultParty):
         beta = self._checkStrategyOpp()
         return self.time_dependent_bidding(beta)
 
-    # {"issue1" : "valueA" (0.55) > "valueC" (0.42) > "valueB" (0.03)
-    #  "issue2" : "valueB" (.80) > "valueC" (0.15) > "valueA" (0.18) > "valueD" (0.02)
-    #  "issue3" : "valueB" (0.75) > "valueA" (0.25)
-    # }
-    # bid B1: (C, B, A)
-    # g(B1) : (0.42/0.55 + 0.8/0.8 + 0.25/0.75) / 3 =  0.69
     def _getTheirUtility(self, bid: Bid):
-        frequencies = copy.deepcopy(self.issue_value_frequencies)
-        for issue in frequencies.keys():
-            N = sum(frequencies[issue].values())
-            for value in frequencies[issue].keys():
-                frequencies[issue][value] /= float(N)
+        value_estimation = self.val_estimation()
+        utility = 0
+        for issue in bid.getIssues():
+            value = bid.getValue(issue)
+            if issue in value_estimation and value in value_estimation[issue]:
+                utility += float(self.weightListOpp[issue]) * value_estimation[issue][value]
 
-        # (0.45, 0.35, 0.2)
-        issue_values = bid.getIssueValues()
-        result = 0.0
-        for issue in issue_values.keys():
-            value = issue_values[issue]
-            issue_value = self.weightListOpp[issue]
-            max_issue_value = max(self.weightListOpp.values())
-            f = 0.05
-            if value in frequencies[issue]:
-                f = frequencies[issue][value]
-            max_f = max(frequencies[issue].values())
-            result += (f / max_f) * float(issue_value / max_issue_value)
-        result /= len(bid.getIssues())
-        return Decimal(result)
+        return Decimal(utility)
 
     def _updateFrequencies(self, bid: Bid):
         issue_values = bid.getIssueValues()
@@ -514,3 +497,8 @@ class TemplateAgent(DefaultParty):
 
         # print(new_weights)
         return new_weights
+
+
+
+
+
