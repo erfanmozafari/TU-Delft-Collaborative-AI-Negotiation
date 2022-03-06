@@ -14,15 +14,16 @@ if not os.path.exists("results"):
 #   We need to specify a deadline of amount of rounds we can negotiate before we end without agreement
 settings = {
     "agents": [
-        "agents.random_agent.random_agent.RandomAgent",
-        # "agents.boulware_agent.boulware_agent.BoulwareAgent",
+        # "agents.random_agent.random_agent.RandomAgent",
+        "agents.boulware_agent.boulware_agent.BoulwareAgent",
         # "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
-        "agents.conceder_agent.conceder_agent.ConcederAgent",
+        # "agents.conceder_agent.conceder_agent.ConcederAgent",
+        # "agents.conceder_agent.conceder_agent.ConcederAgent",
         # "agents.linear_agent.linear_agent.LinearAgent",
-        # "agents.template_agent.template_agent.TemplateAgent",
+        "agents.template_agent.template_agent.TemplateAgent",
     ],
-    # "profiles": ["domains/domain00/profileA.json", "domains/domain00/profileB.json"],
-    "profiles": ["domains/jobs/jobsprofileA.json", "domains/jobs/jobsprofileB.json"],
+    "profiles": ["domains/domain00/profileA.json", "domains/domain00/profileB.json"],
+    # "profiles": ["domains/jobs/jobsprofileA.json", "domains/jobs/jobsprofileB.json"],
     "deadline_rounds": 200,
 }
 

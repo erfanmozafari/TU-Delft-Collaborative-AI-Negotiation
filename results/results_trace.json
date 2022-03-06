@@ -2,4479 +2,2192 @@
   "actions": [
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueJ",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.40499999999999997
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 1.0,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0454218915
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.21999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8675
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueJ",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.75999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.305
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 1.0,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0454218915
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.21999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8675
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.355
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.21999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8675
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.6"
+            "issueC": "valueE",
+            "issueB": "valueJ",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3125
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 1.0,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0454218915
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.21999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8675
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.6"
+            "issueC": "valueE",
+            "issueB": "valueJ",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.21
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 1.0,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0454218915
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.13999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.845
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.13999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.845
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueJ",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 1.0,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0454218915
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueC",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.31999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.4097331637,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.9217040385
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueJ",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.435
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 1.0,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0454218915
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueJ",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.55999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.6
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 1.0,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0454218915
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueI",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5202904172,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.9188453671
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "2500",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.31999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.554795105,
+          "agents_template_agent_template_agent_TemplateAgent_2": 1.0
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3875
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueD": "valueC",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5949178922,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.9036017823
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.45
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.79999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.13999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.845
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.6"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3125
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.6944218982,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8872968365
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4675
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.31999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.435
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8400000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.6410043083,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8773948865
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2500",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.385
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2125
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.414717734,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8756903455
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.602,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4575
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4575
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueB",
+            "issueB": "valueF",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.1867169732,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8692342058
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.79999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23500000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.81,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3275
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5002287608,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8613417471
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23249999999999998
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.305
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5002287608,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8613417471
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueI",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5258554364,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8511132426
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2125
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueI",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5258554364,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8511132426
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.6"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3325
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueI",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5258554364,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8511132426
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.285
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueC",
+            "issueB": "valueI",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.81
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.3752284759,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8405494056
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2825
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueB",
+            "issueB": "valueI",
+            "issueD": "valueB",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.81
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2461512722,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8395067516
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.395
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueD": "valueC",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.6004829114,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8358696578
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.335
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.385
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5605225673,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8327089642
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3125
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.6"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.16
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.23999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.8175
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5605225673,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8327089642
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4275
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.81
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5071049774,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8228070142
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61199999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.385
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.81
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2808184031,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8211024732
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.34500000000000003
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueD",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.15999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5013775151,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.99009805
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.6"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.21
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.81
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2808184031,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8211024732
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.255
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2808184031,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8211024732
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.83,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.15999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2808184031,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8211024732
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.75999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.335
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueD"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2462990651,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8182651968
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2625
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueD": "valueC",
+            "issueA": "valueE",
+            "issueE": "valueC"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.35999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.81
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.6342905348,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8163707081
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.75999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.5
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5238994388,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8047470778
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4675
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5238994388,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8047470778
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "2500",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.15999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5238994388,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8047470778
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.79999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23500000000000001
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7875
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5238994388,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8047470778
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.79,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5238994388,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.8047470778
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4575
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueC",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.15999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.3732724783,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7941832408
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.385
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2441952746,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7931405868
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3275
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.15999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2441952746,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7931405868
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.83,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7875
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2441952746,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7931405868
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.5
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7875
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2441952746,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7931405868
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.435
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueF"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.2441952746,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7931405868
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63199999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.335
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.6945843413,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7877379252
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.75,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.255
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.6945843413,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7877379252
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.36500000000000005
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.6945843413,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7877379252
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.51
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.6"
+            "issueC": "valueC",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.795
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.5439573808,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7771740882
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.79,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3775
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7875
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.4148801771,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7761314342
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4275
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
+        "actor": "agents_template_agent_template_agent_TemplateAgent_2",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "1.0"
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueD": "valueC",
+            "issueA": "valueA",
+            "issueE": "valueE"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.4148801771,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.7761314342
         }
       }
     },
     {
       "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
+        "actor": "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
         "bid": {
           "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "0",
-            "fte": "0.8"
+            "issueC": "valueE",
+            "issueB": "valueD",
+            "issueD": "valueA",
+            "issueA": "valueJ",
+            "issueE": "valueA"
           }
         },
         "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4275
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.662,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3775
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23249999999999998
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.27999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7875
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.662,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3775
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.45999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.78
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.83999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.20500000000000002
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.45999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.78
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.58
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4375
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.33999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61199999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23249999999999998
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.79
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.48
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.25999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4575
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.1825
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.45999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.78
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.285
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.355
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.48750000000000004
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.765
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.315
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.33,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.405
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.45999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.78
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63199999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.335
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3125
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.765
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.5075
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2825
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.48
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3625
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.24250000000000002
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.33,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.385
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.765
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.48
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.81999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.255
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7575
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.45
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.58
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.25999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65199999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.355
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.41999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.285
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23249999999999998
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7575
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.75,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.40750000000000003
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.41999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.2825
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.33,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.58
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.75,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.40750000000000003
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.51
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.33,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.315
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.24
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.25999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.435
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.71,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.355
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.25999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23249999999999998
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.29999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7675000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "2500",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.305
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.17999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.745
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "1",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.40499999999999997
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.19999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.765
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3125
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.41999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3575
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7575
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.65999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.58
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "1",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.25,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.745
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.48750000000000004
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.69999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.385
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.17999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.745
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.79999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23500000000000001
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.37999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.76
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.51
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2000",
-            "work from home": "1",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.25,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.745
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3000",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61199999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.23249999999999998
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.21199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.745
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "2500",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.63,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.4775
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.21999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.745
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.85999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.155
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.39999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.74
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "medium",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.61999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.21
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3000",
-            "work from home": "0",
-            "fte": "0.6"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.21199999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.745
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "yes",
-            "salary": "3500",
-            "work from home": "2",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.73999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.285
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "3500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.47999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.74
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.75,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.255
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "no",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.39999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.74
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "yes",
-            "salary": "4000",
-            "work from home": "2",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.77999999999988,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.1325
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_conceder_agent_conceder_agent_ConcederAgent_2",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "low",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "2500",
-            "work from home": "0",
-            "fte": "0.8"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.33999999994,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.7375
-        }
-      }
-    },
-    {
-      "Offer": {
-        "actor": "agents_random_agent_random_agent_RandomAgent_1",
-        "bid": {
-          "issuevalues": {
-            "career development opportunities": "high",
-            "lease car": "yes",
-            "permanent contract": "no",
-            "salary": "4000",
-            "work from home": "1",
-            "fte": "1.0"
-          }
-        },
-        "utilities": {
-          "agents_random_agent_random_agent_RandomAgent_1": 0.67,
-          "agents_conceder_agent_conceder_agent_ConcederAgent_2": 0.3875
+          "agents_boulware_agent_boulware_agent_BoulwareAgent_1": 0.9927602362,
+          "agents_template_agent_template_agent_TemplateAgent_2": 0.0448440819
         }
       }
     }
   ],
   "connections": [
-    "agents_random_agent_random_agent_RandomAgent_1",
-    "agents_conceder_agent_conceder_agent_ConcederAgent_2"
+    "agents_boulware_agent_boulware_agent_BoulwareAgent_1",
+    "agents_template_agent_template_agent_TemplateAgent_2"
   ],
   "progress": {
     "ProgressRounds": {
       "duration": 200,
-      "currentRound": 117,
-      "endtime": 1646581517162
+      "currentRound": 60,
+      "endtime": 1646585525474
     }
   },
   "settings": {
@@ -4485,10 +2198,10 @@
             "parties": [
               {
                 "party": {
-                  "partyref": "pythonpath:agents.random_agent.random_agent.RandomAgent",
+                  "partyref": "pythonpath:agents.boulware_agent.boulware_agent.BoulwareAgent",
                   "parameters": {}
                 },
-                "profile": "file:domains/jobs/jobsprofileA.json"
+                "profile": "file:domains/domain00/profileA.json"
               }
             ]
           }
@@ -4498,10 +2211,10 @@
             "parties": [
               {
                 "party": {
-                  "partyref": "pythonpath:agents.conceder_agent.conceder_agent.ConcederAgent",
+                  "partyref": "pythonpath:agents.template_agent.template_agent.TemplateAgent",
                   "parameters": {}
                 },
-                "profile": "file:domains/jobs/jobsprofileB.json"
+                "profile": "file:domains/domain00/profileB.json"
               }
             ]
           }
@@ -4516,19 +2229,19 @@
     }
   },
   "partyprofiles": {
-    "agents_random_agent_random_agent_RandomAgent_1": {
+    "agents_boulware_agent_boulware_agent_BoulwareAgent_1": {
       "party": {
-        "partyref": "pythonpath:agents.random_agent.random_agent.RandomAgent",
+        "partyref": "pythonpath:agents.boulware_agent.boulware_agent.BoulwareAgent",
         "parameters": {}
       },
-      "profile": "file:domains/jobs/jobsprofileA.json"
+      "profile": "file:domains/domain00/profileA.json"
     },
-    "agents_conceder_agent_conceder_agent_ConcederAgent_2": {
+    "agents_template_agent_template_agent_TemplateAgent_2": {
       "party": {
-        "partyref": "pythonpath:agents.conceder_agent.conceder_agent.ConcederAgent",
+        "partyref": "pythonpath:agents.template_agent.template_agent.TemplateAgent",
         "parameters": {}
       },
-      "profile": "file:domains/jobs/jobsprofileB.json"
+      "profile": "file:domains/domain00/profileB.json"
     }
   },
   "error": null

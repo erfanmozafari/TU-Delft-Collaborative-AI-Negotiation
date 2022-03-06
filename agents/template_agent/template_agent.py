@@ -48,9 +48,6 @@ class TemplateAgent(DefaultParty):
         self.bidListOpp: list[Bid] = []
         self.weightList: dict[str, Decimal] = {}
         self.weightListOpp: dict[str, Decimal] = {}
-        # self.deltas: list[Decimal] = []
-        # self.taus: list[Decimal] = []
-        # self.tau_gen: Decimal = Decimal(0.25)
         self.issue_value_frequencies = {}
         self.prev_issue_value_frequencies = {}
         self.cc = 1  # concession constant
@@ -81,20 +78,17 @@ class TemplateAgent(DefaultParty):
             self.issue_names = list(self.weightList.keys())
             n = len(self.issue_names)
             self.weightListOpp = dict(zip(self.issue_names, np.full(n, Decimal(round(1 / n, 6)))))
-            # self.deltas = self._deltas()
-            # self.taus = self._taus()
         # ActionDone is an action send by an opponent (an offer or an accept)
         elif isinstance(info, ActionDone):
             action: Action = cast(ActionDone, info).getAction()
-
             # if it is an offer, set the last received bid
             if isinstance(action, Offer):
                 self._last_received_bid = cast(Offer, action).getBid()
                 self.bidListOpp.append(self._last_received_bid)
-                # self.weightListOpp = self._estimateOppWeights(self.bidListOpp)
-                # self.weightListOpp = self._estimateOppWeights_2(round_one_opp_estimate, self.weightListOpp)
                 self._updateFrequencies(self._last_received_bid)
                 self.update_weight_every_window()
+
+
 
         # YourTurn notifies you that it is your turn to act
         elif isinstance(info, YourTurn):
@@ -109,6 +103,7 @@ class TemplateAgent(DefaultParty):
         # Finished will be send if the negotiation has ended (through agreement or deadline)
         elif isinstance(info, Finished):
             # terminate the agent MUST BE CALLED
+            # print(info)
             self.terminate()
         else:
             self.getReporter().log(
@@ -247,10 +242,10 @@ class TemplateAgent(DefaultParty):
     def _findBid(self) -> Bid:
         # compose a list of all possible bids
         domain = self._profile.getProfile().getDomain()
-        all_bids = AllBidsList(domain)
 
         beta = 0.5  # 0 = hardliner, 0.2 = boulware, 1 = linear agent, 2 = conceder
-        # beta = self._checkStrategyOpp()
+        beta = self._checkStrategyOpp()
+        # print(beta)
         return self.time_dependent_bidding(beta)
 
     # {"issue1" : "valueA" (0.55) > "valueC" (0.42) > "valueB" (0.03)
@@ -328,63 +323,35 @@ class TemplateAgent(DefaultParty):
 
         # return (2 * a * U_mine + (1-a) * U_theirs) / 2
 
-    def _hasNotApperearedBefore(self, bid: Bid):
-        # At the end we are more desperate and we can make bids again
-        time = self._progress.get(round(clock() * 1000))
-        if time > 0.90:
-            return True
-
-        # Check our own bids
-        for i in range(len(self.bidList)):
-            if bid.getIssueValues() == self.bidList[i].getIssueValues():
-                return False
-
-        # # Check opponent bids
-        # for i in range(len(self.bidListOpp)):
-        #     if bid.getIssueValues() == self.bidListOpp[i].getIssueValues():
-        #         return False
-
-        return True
+    # def _hasNotApperearedBefore(self, bid: Bid):
+    #     # At the end we are more desperate and we can make bids again
+    #     time = self._progress.get(round(clock() * 1000))
+    #     if time > 0.90:
+    #         return True
+    #
+    #     # Check our own bids
+    #     for i in range(len(self.bidList)):
+    #         if bid.getIssueValues() == self.bidList[i].getIssueValues():
+    #             return False
+    #
+    #     # # Check opponent bids
+    #     # for i in range(len(self.bidListOpp)):
+    #     #     if bid.getIssueValues() == self.bidListOpp[i].getIssueValues():
+    #     #         return False
+    #
+    #     return True
 
     def _checkStrategyOpp(self) -> float:
-        # look at the frequency list
-        stds = []
-        for issue in self.issue_names:
-            frequencies = copy.deepcopy(self.issue_value_frequencies[issue])
-            N = sum(frequencies.values())
-            for value in frequencies.keys():
-                frequencies[value] /= float(N)
-            stds.append(np.std(np.array(list(frequencies.values()))))
-
-        std_freq = np.sum(np.array(stds))
-        # High std means random or condeder agent
-        # Low std means hardliner or boulware
-
-        val_estimation = self.val_estimation()
-        utils = []
-        for bid in self.bidListOpp:
-            util = 0
-            for issue in bid.getIssues():
-                 util += float(self.weightListOpp[issue]) * val_estimation[issue][bid.getValue(issue)]
-            utils.append(util)
-
-        std_util = np.std(np.array(utils))
-        # High std means random or condeder agent 0.06543221134731363
-        # Low std means hardliner or boulware
-
-        # print("STD FREQ:" + str(std_freq))
-        # print("STD UTIL:" + str(std_util))
-        # Conceder
-        # STD FREQ: 0.04651775864467698
-        # STD UTIL: 0.07183886111217073
-        progress = self._progress.get(round(clock() * 1000))
-        if std_freq > 0.5 and std_util > (0.02):
-            return 1.2
+        if (len(self.bidListOpp) > 0):
+            bidSetOpp = set(self.bidListOpp)
+            print(len(bidSetOpp)/ len(self.bidListOpp))
+            t1 = len(bidSetOpp)/ len(self.bidListOpp)
+            if t1 > 0.25:
+                return 0.2
+            else:
+                return 2
         else:
             return 0.2
-
-
-
 
 
     def _isGoodNew(self, bid: Bid) -> bool:
@@ -407,6 +374,7 @@ class TemplateAgent(DefaultParty):
                 return True
 
             return self._evaluate_bid(bid) >= utility_target
+
 
         # progressArray = [0, 0.2, 0.4, 0.6, 0.8]
         # utilityArray = [0, 0.9, 0.8, 0.7, 0.6]
@@ -459,9 +427,9 @@ class TemplateAgent(DefaultParty):
             # if we can't find good bid, get max util bid....
             options = self._extendedspace.getBids(self._extendedspace.getMax())
 
-        # for bid in options:
-        #     if self._isGoodNew(bid): #and self._hasNotApperearedBefore(bid):
-        #         return bid
+        for bid in options:
+            if self._isGoodNew(bid):
+                return bid
 
         # else pick a random one.
         return options.get(randint(0, options.size() - 1))

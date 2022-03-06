@@ -1,8 +1,8 @@
 {
-  "num_offers": 235,
-  "agent_1": "RandomAgent",
+  "num_offers": 121,
+  "agent_1": "BoulwareAgent",
   "utility_1": 0,
-  "agent_2": "ConcederAgent",
+  "agent_2": "TemplateAgent",
   "utility_2": 0,
   "nash_product": 0,
   "social_welfare": 0,
