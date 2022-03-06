@@ -145,12 +145,13 @@ class TemplateAgent(DefaultParty):
     def _myTurn(self):
         self._updateExtUtilSpace()
         # check if the last received offer if the opponent is good enough
-        if self._isGoodNew(self._last_received_bid, self._findBid()):
+        ourBid = self._findBid()
+        if self._isGoodNew(self._last_received_bid, ourBid):
             # if so, accept the offer
             action = Accept(self._me, self._last_received_bid)
         else:
             # if not, find a bid to propose as counter offer
-            bid = self._findBid()
+            bid = ourBid
             action = Offer(self._me, bid)
 
         # send the action
