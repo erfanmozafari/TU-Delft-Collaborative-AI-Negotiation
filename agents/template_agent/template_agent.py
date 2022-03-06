@@ -1,4 +1,5 @@
 import logging
+import profile
 import numpy as np
 import copy
 from geniusweb.progress.Progress import Progress
@@ -9,6 +10,7 @@ from time import time as clock
 from geniusweb.actions.Accept import Accept
 from geniusweb.actions.Action import Action
 from geniusweb.actions.Offer import Offer
+from geniusweb.actions.PartyId import PartyId
 from geniusweb.bidspace.AllBidsList import AllBidsList
 from geniusweb.inform.ActionDone import ActionDone
 from geniusweb.inform.Finished import Finished
@@ -16,7 +18,9 @@ from geniusweb.inform.Inform import Inform
 from geniusweb.inform.Settings import Settings
 from geniusweb.inform.YourTurn import YourTurn
 from geniusweb.issuevalue.Bid import Bid
+from geniusweb.issuevalue.Domain import Domain
 from geniusweb.issuevalue.Value import Value
+from geniusweb.issuevalue.ValueSet import ValueSet
 from decimal import Decimal
 from geniusweb.party.Capabilities import Capabilities
 from geniusweb.party.DefaultParty import DefaultParty
@@ -26,9 +30,11 @@ from geniusweb.profileconnection import ProfileInterface
 from geniusweb.profileconnection.ProfileConnectionFactory import (
     ProfileConnectionFactory,
 )
+from geniusweb.progress.ProgressRounds import ProgressRounds
 from tudelft.utilities.immutablelist.ImmutableList import ImmutableList
 
 from agents.time_dependent_agent.extended_util_space import ExtendedUtilSpace
+from agents.time_dependent_agent.time_dependent_agent import TimeDependentAgent
 
 
 class TemplateAgent(DefaultParty):
@@ -103,7 +109,6 @@ class TemplateAgent(DefaultParty):
         # Finished will be send if the negotiation has ended (through agreement or deadline)
         elif isinstance(info, Finished):
             # terminate the agent MUST BE CALLED
-            # print(info)
             self.terminate()
         else:
             self.getReporter().log(
@@ -141,12 +146,13 @@ class TemplateAgent(DefaultParty):
     def _myTurn(self):
         self._updateExtUtilSpace()
         # check if the last received offer if the opponent is good enough
-        if self._isGoodNew(self._last_received_bid):
+        ourBid = self._findBid()
+        if self._isGoodNew(self._last_received_bid, ourBid):
             # if so, accept the offer
             action = Accept(self._me, self._last_received_bid)
         else:
             # if not, find a bid to propose as counter offer
-            bid = self._findBid()
+            bid = ourBid
             action = Offer(self._me, bid)
 
         # send the action
@@ -240,12 +246,7 @@ class TemplateAgent(DefaultParty):
     #     # Todo Analyze the acceptance strategy maybe??
 
     def _findBid(self) -> Bid:
-        # compose a list of all possible bids
-        domain = self._profile.getProfile().getDomain()
-
-        beta = 0.5  # 0 = hardliner, 0.2 = boulware, 1 = linear agent, 2 = conceder
         beta = self._checkStrategyOpp()
-        # print(beta)
         return self.time_dependent_bidding(beta)
 
     # {"issue1" : "valueA" (0.55) > "valueC" (0.42) > "valueB" (0.03)
@@ -353,38 +354,47 @@ class TemplateAgent(DefaultParty):
         else:
             return 0.2
 
-
-    def _isGoodNew(self, bid: Bid) -> bool:
+    # Acceptance condition
+    def _isGoodNew(self, bid: Bid, plannedBid: Bid) -> bool:
+        # the offer is acceptable if it is better than
+        # all offers received in the previous time window W
+        # or the offer is better than our next planned offer
+        # W = [T - (1 - T), T]
         if bid is None:
             return False
         profile = self._profile.getProfile()
 
         progress = self._progress.get(0)
+        bidsFromW = []
+        maxBidFromW = 0
+        W = 0.02
+        T = 0.98
         if isinstance(profile, UtilitySpace):
             reservation_bid = profile.getReservationBid()
-            if reservation_bid is None and progress >= 0.99:
+            if reservation_bid is None and progress >= T:
                 return True
             reservation_value = 0.3
             if reservation_bid is not None:
                 reservation_value = profile.getUtility(reservation_bid)
-            # the utility target was too high I think
-            # utility_target = (reservation_value + 1) / 2
-            utility_target = reservation_value
-            if progress >= 0.99 and self._evaluate_bid(bid) < utility_target:
+
+            receivedBid = self._evaluate_bid(bid)
+            # If the opponent's bid is better than our next planned bid, accept
+            if(receivedBid > self._evaluate_bid(plannedBid)):
                 return True
 
-            return self._evaluate_bid(bid) >= utility_target
+            # Save bids from window W and save the best one
+            if (progress >= T - W and progress < T):
+                bidsFromW.append(receivedBid)
+                if (receivedBid > maxBidFromW):
+                    maxBidFromW = receivedBid
 
+            utility_target = reservation_value * 3 / 2
+            # After time T, accept the bid if it is better from the best bid recieved
+            # in the previous time window W
+            if (progress >= T and receivedBid < utility_target and receivedBid >= maxBidFromW):
+                return True
 
-        # progressArray = [0, 0.2, 0.4, 0.6, 0.8]
-        # utilityArray = [0, 0.9, 0.8, 0.7, 0.6]
-        # for i in range(1, len(progressArray)):
-        #     if progressArray[i - 1] <= progress <= progressArray[i]:
-        #         return profile.getUtility(bid) > utilityArray[i]
-
-        # very basic approach that accepts if the offer is valued above 0.6 and
-        # 80% of the rounds towards the deadline have passed
-        # return profile.getUtility(bid) > 0.6 and progress > 0.8
+            return receivedBid >= utility_target
 
     # def _isGoodOpp(self, bid: Bid) -> bool:
     #     opp_utility = []
