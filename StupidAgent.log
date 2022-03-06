@@ -3635,3 +3635,2395 @@
 2022-02-19 13:42:19,892 - StupidAgent - INFO - party is terminating:
 2022-02-19 13:42:19,892 - StupidAgent - INFO - party is terminating:
 2022-02-19 13:42:19,892 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:17,634 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:17,640 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:17,640 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:23,147 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:23,147 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:23,154 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:23,154 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:23,154 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:23,154 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:28,809 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:28,809 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:28,809 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:28,815 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:28,815 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:28,815 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:28,815 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:28,815 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:28,815 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:33,784 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:33,784 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:33,784 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:33,784 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:33,790 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:33,790 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:33,790 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:33,790 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:33,791 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:33,791 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:33,791 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:33,791 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:36,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:36,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:36,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:36,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:36,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:36,503 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:36,503 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:36,503 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:36,503 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:36,503 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:36,507 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:36,507 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:36,507 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:36,507 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:36,507 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:37,960 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:37,960 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:37,960 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:37,960 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:37,960 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:37,960 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:37,965 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:37,965 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:37,965 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:37,965 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:37,965 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:37,965 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:37,970 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:37,970 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:37,970 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:37,970 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:37,970 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:37,970 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:37,972 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:37,972 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:37,972 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:37,972 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:37,972 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:37,972 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:37,976 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:37,976 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:37,976 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:37,976 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:37,976 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:37,976 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,184 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,184 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,184 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,184 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,184 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,184 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,184 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,188 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,193 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,193 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,193 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,193 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,193 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,193 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,193 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,194 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,194 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,194 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,194 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,194 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,194 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,194 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,405 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,409 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,414 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,415 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,625 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,630 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,635 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,862 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,867 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,868 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,872 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:38,875 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,083 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,086 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:39,087 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:40,120 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:46,496 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:47,534 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,823 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,830 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:51,834 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,117 - StupidAgent - INFO - party is initialized
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,126 - StupidAgent - INFO - sending accept:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:13:55,130 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,262 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:00,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,596 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,606 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:04,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,018 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,026 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:07,027 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,508 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,513 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,520 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,523 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,526 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,754 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,759 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,765 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,767 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,768 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,973 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,978 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,982 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,985 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:08,986 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,198 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,203 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,208 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,211 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,212 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,441 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,447 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,455 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,458 - StupidAgent - INFO - sending accept:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,459 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,677 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:09,682 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:10,711 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:16,897 - StupidAgent - INFO - party is initialized
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:14:17,919 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:06,279 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:06,285 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:06,289 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:10,771 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:10,771 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:10,776 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:10,776 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:10,779 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:10,779 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:15,864 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:15,864 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:15,864 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:15,871 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:15,871 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:15,871 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:15,874 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:15,874 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:15,874 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:21,372 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:21,372 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:21,372 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:21,372 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:21,378 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:21,378 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:21,378 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:21,378 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:21,383 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:21,383 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:21,383 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:21,383 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,261 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,261 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,261 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,261 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,261 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,267 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,267 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,712 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,712 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,712 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,712 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,712 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,712 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,716 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,721 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,932 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,932 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,932 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,932 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,932 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,932 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,932 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,935 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:23,940 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,940 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,940 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,940 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,940 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,940 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,940 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:23,942 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,942 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,942 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,942 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,942 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,942 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:23,942 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,148 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,152 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,153 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,158 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,375 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,380 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,384 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,386 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,390 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,602 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,605 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,609 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,610 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,841 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,847 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:24,848 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:25,877 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,268 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,276 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:27,279 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,436 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,443 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:30,444 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,274 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,283 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:32,285 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,254 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,261 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:36,265 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,671 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,679 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:38,683 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,097 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,104 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,107 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,541 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,546 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,550 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,552 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,553 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,786 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,791 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,797 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,799 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:40,800 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,010 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,016 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,021 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,023 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,024 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,250 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,255 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,260 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,265 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,269 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,489 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,494 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,500 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,501 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,502 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,715 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,719 - StupidAgent - INFO - sending empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:41,724 - StupidAgent - INFO - sent empty offer:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:42,748 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,123 - StupidAgent - INFO - party is initialized
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,131 - StupidAgent - INFO - sending accept:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:
+2022-03-06 14:16:44,135 - StupidAgent - INFO - party is terminating:

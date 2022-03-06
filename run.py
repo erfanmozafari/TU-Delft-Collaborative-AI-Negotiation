@@ -16,8 +16,10 @@ settings = {
     "agents": [
         "agents.random_agent.random_agent.RandomAgent",
         # "agents.boulware_agent.boulware_agent.BoulwareAgent",
-        # "agents.conceder_agent.conceder_agent.ConcederAgent",
-        "agents.template_agent.template_agent.TemplateAgent",
+        # "agents.hardliner_agent.hardliner_agent.HardlinerAgent",
+        "agents.conceder_agent.conceder_agent.ConcederAgent",
+        # "agents.linear_agent.linear_agent.LinearAgent",
+        # "agents.template_agent.template_agent.TemplateAgent",
     ],
     # "profiles": ["domains/domain00/profileA.json", "domains/domain00/profileB.json"],
     "profiles": ["domains/jobs/jobsprofileA.json", "domains/jobs/jobsprofileB.json"],
